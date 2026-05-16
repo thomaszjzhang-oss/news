@@ -14,7 +14,7 @@ from datetime import datetime, timezone, timedelta
 from html import unescape
 import os
 
-# News sources configuration - 使用更宽松的查询
+# News sources configuration
 SOURCES = {
     "AP": {"name": "美联社", "queries": ["site:apnews.com", "site:ap.org"]},
     "Reuters": {"name": "路透社", "queries": ["site:reuters.com"]},
@@ -25,10 +25,9 @@ SOURCES = {
 
 # China-related keywords (case-insensitive)
 CHINA_KEYWORDS = [
-    "china", "chinese", "beijing", "shanghai", "shenzhen", "guangzhou",
+    "china","beijing", "shanghai", "shenzhen", "guangzhou",
     "taiwan", "hong kong", "hongkong", "ccp", "pla",
-    "xinjiang", "tibet", "macau", "macao", "中国", "北京", "上海",
-    "台湾", "香港", "深圳", "广州", "新疆", "西藏",
+    "xinjiang", "tibet", 
 ]
 
 # Time slot configuration (Beijing Time)
