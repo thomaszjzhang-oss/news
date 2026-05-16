@@ -9,7 +9,10 @@ on:
     # 北京时间 20:00 (UTC 12:00)
     - cron: '0 12 * * *'
   workflow_dispatch:  # 允许手动触发
-
+  
+permissions:
+  contents: write  # 添加这一行，给予写入权限
+  
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
