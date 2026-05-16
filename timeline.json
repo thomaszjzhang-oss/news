@@ -1,6 +1,516 @@
 {
   "snapshots": [
     {
+      "fetch_time": "2026-05-16T10:43:50.409933+00:00",
+      "fetch_time_display": "2026年05月16日 18:43",
+      "time_slot": "evening",
+      "time_slot_label": "晚间综述",
+      "total": 50,
+      "china_related_count": 32,
+      "news": [
+        {
+          "title": "US CEOs follow Trump's footsteps with diplomacy in Beijing",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTNza21FbkQ0dXBtcGlVZ2ZyTVVHS0dRNWFpa1VldWhTOXlHdVlHaW82WmJlbE5naDAzaXZra2V5SEliUXFnbFRNdWtMUy0wWFhXSTQzby11c3BLU1IwamFtc0tObmdNNTljRjZCd0JvWVpZbUlxN0ZWeE1ualY1azlfQUNKYXo2THZ6ckhjV1ZjcVRIU3B0VWYwWkxRSUtfSDJpVC1qbFFlblll?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 09:06:31 GMT",
+          "pub_timestamp": 1778922391,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVhsRUZFc3UtZm82NGhnM0E?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 08:41:28 GMT",
+          "pub_timestamp": 1778920888,
+          "is_china_related": true
+        },
+        {
+          "title": "China Data Centers Tap Spot Power Trading First Time: Report",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1V0R0N4cDhZbHpmYjVCaFBjbXlhNTFWWXFsM29fWEQ1cnVUZGh5QWc4RE9WZkloSmdtamhRNWh5Z190RzMxbTVFa2MweG1uZ0pRYi1QZGZFeEFhRkFOSlF3M0ZPRi1QTjU0NThGb1FfMW9YWldTajZveEVPRFJZVmVnRG4zLVNXWU41WjdlVno3M0o0ZFJwVzhlVUZ2Z0ZJTUNSMVptLVhqZV95eEpB?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Sat, 16 May 2026 05:28:00 GMT",
+          "pub_timestamp": 1778909280,
+          "is_china_related": true
+        },
+        {
+          "title": "Taiwan presses case for US arms after Trump says he is undecided on new sales",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFl1Ny03MUg3TkpWYTFmZkpBbndZZTVwWjlCcy1NX1Q2Qkpfb0pwLURjT0UzNWtTQmVPYXptaHBsNG84WFBVMUxQU0toWUpmMFBLU0VBcnNZVEVWNEpLWFN5Mi1JbkpQOHBraWxwemlnYkIzRFd4OFN4RW1iNGNmY0JtQTNLVmM5akFINE44OW92T1FxNkdNOFp4SVlRV1dqZ2ttNG5sNA?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 02:31:00 GMT",
+          "pub_timestamp": 1778898660,
+          "is_china_related": true
+        },
+        {
+          "title": "China's U.N. ambassador criticizes US Hormuz resolution",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVUpaaUtBM3FTT1pYdjJMWEhlRllFbEpmTTZjTGpBX1pLUDVZbjYxdXB5Y0t6ZGRVcGxNM09QdG9TdVl5cXg2MC0wUjhNSWxFUjRKR3JyYXl3WE5aMTJyNllfSGx6ZUI3OV9Bc0pfYjR4NE9HdVlhX3NWbWhBVFVKTWpOWGFDYzQ1ZGJ5c0lUU2MzNVVzU1Nxb19oMnF0NjZ4Y0E?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 22:53:41 GMT",
+          "pub_timestamp": 1778885621,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump says China to buy 200 Boeing jets, order could rise up to 750",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1hHTkdXZjdMZHlLVXhjOXlIczlkUWhiVUtZWUZTNmhSeGNGVEVONF9QZzRPcWJmRTJkUWFNTWhPTTRmQTcwa1U0TmprdVJoZE0yTlJvTG1MdERPOVpIanJBam51ZGg0MU05SW8wREZxWksyd2dULVYwck92MzVVcXBncDhJTndpaUVWUHZ6cVdMajBFT0NMQ3Q4MXhWZWdTZXFaSFV1T3NvNkEwb1A4OG9qVQ?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 22:44:43 GMT",
+          "pub_timestamp": 1778885083,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump to Decide Soon on Taiwan Arms Sale, Noncommittal to Xi",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVVNS3ZWOUpoU1VocUV4elltOURob0ZGNnNtUVduZTI1UnFsdl8xMnZPYlJBSlhoWXdlWHlpOHE4NTJvTXBPMnYyS0NBb0dWaG14U1F3a0xSdXZYbmJvZC1wc0RxRWJmbFVTWDhsOTRhRm5kdG9DVmFRcVMzd292and4d1VpZ1hhYjZJdmUzU3BJWmJpcy1ieGs2Y29WZ2doYV8zVjJrZE1mLXZpMU1RMEYzMXg?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Fri, 15 May 2026 22:31:54 GMT",
+          "pub_timestamp": 1778884314,
+          "is_china_related": true
+        },
+        {
+          "title": "Opinion | The Good-News-Is-No-News China Summit",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYXBoRzNLc3RsMXFUWXpBeDgwU1RlZkNUNldqanZXb3A4UVJJcy1RLW1aWjFKaXI3YUZnLVZzYmg2T0ZBR3pLQmgtOW9rRGktc2dHX0czbnVZT0ZPMmt6SzJiLUdHTFZmM0J5S3Zsei10SEtsT200ZFQ2MW5abksyNWxaWGhHQUFESm9z?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Fri, 15 May 2026 22:13:27 GMT",
+          "pub_timestamp": 1778883207,
+          "is_china_related": true
+        },
+        {
+          "title": "From Trade to Taiwan, What the Trump-Xi Summit Did (and Didn’t) Accomplish",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXdYeWxBUXJyYTdMZXFKYjVGcFdfRFhYZEQwczdsZzNoSjFBNTVVc21XOWVqejVXVEFSUHgxMHFQWFhtX1RJajlZZTFpRjczOFViZngxTFJ1cEFkMDNxd0MtYkFWNkNfS1VwVHJ6OTNId3VyRTRyeDNQbllIb3A1VERNandxZW1aX3diT0RZSUhvRFdVWHY0Rlh6Z0lWVTlobldZazJBM09odUhhcE9Xc0FNUDlUblFLTmtZ?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Fri, 15 May 2026 21:26:27 GMT",
+          "pub_timestamp": 1778880387,
+          "is_china_related": true
+        },
+        {
+          "title": "Pageantry over policy: Takeaways from Trump's China trip",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjNqTDM4dlNDRXVMTmZCM09FSno0cERTbHFZT3pfLWRnTHlNMWx4YXJ1d3V0WUNuYVJGWVVYR29xdm1lSVQwNzc1bnlidjVybHFEQUdWcjlGVGdCa3ZDQjlyRmt1Wlo5cWUyTmlnLTdxOFktZ0hWVUVpQmoxdEVSczdodUlZWmU0MlpsMFRKWHhPbEZ0ODVqM1JGRGtBQQ?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 20:08:00 GMT",
+          "pub_timestamp": 1778875680,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump says he is losing patience with Iran, did not ask China for favors",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 19:40:38 GMT",
+          "pub_timestamp": 1778874038,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump weighs Taiwan arms package after summit aimed at steadying US-China ties",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPejBiT2oyOUNKV1YtYUo2eFp1WkJKc1lUakhzMGRKZFZRa0dxbmpPeUtKb1E5ZlBDQVR3eFh5aWVrN1dQdGJUdERwQ1hiZ28zclRDVm5LYXJRMUpyWlhpR0FGVlN3WURYcHRiNVAyQkhNTE1Eemk5UmtzYkd3X0YyTXNRVUpFck1qV2JHVS1QUQ?oc=5",
+          "source": "美联社",
+          "source_key": "AP",
+          "original_source": "AP News",
+          "pub_date": "Fri, 15 May 2026 18:11:00 GMT",
+          "pub_timestamp": 1778868660,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump says he discussed Taiwan arms sales with Xi Jinping, decision soon",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPakxrZnVfSFN2Tkl1SFpMazBsckxtNGNxeUt6RkhsVVY0dXJJTFQzRV9hdlBhdi1laDEzeXgxUWQ0aXdrMUdNT3dVUlE5eEVXSTNJWk1HUUczWnE2VWdTLWZZQzBsZkJlTGllLVFyV0EzVmdzY2RXdlZHRFZ1T3VXZjFwQWxzMDdwUW1HZkk0aS1WakZnanpqODVqSWNsZk1HUEQzMEl2dlhuWmtESklROUs3bWdDc2ZqWWRJamFlblU4MktSempoZFNBRGptWVk?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 16:12:52 GMT",
+          "pub_timestamp": 1778861572,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump Says He Didn’t Discuss Extending Tariff Truce With Xi at China Summit",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmZDUk44bGd4UHZnUno0T0lSWWF3cmo2cFFqQ09tanc5cE9wSGtEWkJ3TXRxVVc3ZGs3UEoxZF84RGFPcFp3VElpY01xN3U3LXRyMUViS25pUmNkY3F4d1BIcUdYRHRYSEVoQ3dSLUR6Um1rOWRtamFfWTc1ZzY2TmpUM1p4eE9fUDhNczlUb3pZQ3JMNDg3Y0NDdm5RZ1JwZTFXQnhBNDZNWkJwVURJ?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Fri, 15 May 2026 14:53:35 GMT",
+          "pub_timestamp": 1778856815,
+          "is_china_related": true
+        },
+        {
+          "title": "Chip Stocks Slide After U.S.-China Summit Ends Without Major Tech Deals",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR29DYlo0WjRTNXEzZzFCYUlRTGFpMW8tM2Y1M0RKWFBGbmtJT3htcTRsdEx4M0oyNjJTTXl5TElHZTVETm1aRl9xeFA2ekxfdmpkX3dPMDJBLTR1RDB6NWhIdGN4b2stVktxaEFnWDVQVmQweFBCc0lrQjdMWlZtYmNnTk92ajN6WEhQZW0ya2hkQW1zZzZ5NC16UUVlMDdwcTZzMXllbw?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Fri, 15 May 2026 14:33:00 GMT",
+          "pub_timestamp": 1778855580,
+          "is_china_related": true
+        },
+        {
+          "title": "China state broadcaster reaches World Cup deal with FIFA",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkFiTUV5WVZfYlBUc0hLZ1VRdmZWMnVCU1p1ajNRZHRoZDhPcndDUThaYWlNLWVKNGxSbUtfcXVTVHZvTy05X0xJR2NPY1VHU1FjSnB2YzV6Qzhmc2hCZTlTb2lBSkc1MDNUejVLSGJ1UVBXNnp1RTItNXYzcDRLdnJqd3hLQ2FkYWhzcl80U3g1TXVQQmcyMEI0bG1IZHBDM19iSHhKMDdFZ1ZHNWxvaXktODZYcmhjRUt0MFJMSHJGNTJQWUNv?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 13:47:02 GMT",
+          "pub_timestamp": 1778852822,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump Says He May Remove Some Iran-Linked Sanctions on China",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlJKMXIxbW5QbVBubXpkQUZtWmJGUTVPLVQ1d21XYzRrN1M4T1JWZFFib2luMlluTDhGWDlqN1UwWG03Q1lNN3FkUDhiWnMxR2RJcDY0OWFVa0UtVFE4REg0bjRlM01BeEdEa19XN2R1YUIybndtakx3cGZ0ZWxENDduT0VGSmdVZVJtNjRveXB3OXdWeTZiN1BORzFOQkM5SWF4M29nQlFzX1Z0bDJvVg?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Fri, 15 May 2026 13:34:54 GMT",
+          "pub_timestamp": 1778852094,
+          "is_china_related": true
+        },
+        {
+          "title": "Winners and Losers From Trump and Xi’s Two-Day Beijing Summit",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMl9KU0Zfcjdpb01ldmNVNTlIZTRWQktOSVAtOTR2QVFFM1hfS1RSLThjaTAyd0FaaEpyUnV6ekNkc1VrbHEwaXJSNFFqRWs0dV9FVXkzbU5mdjM0N3NNd05WRktjNFdzZ0IxVFJCUGlXN2tkZFhiakI1OG9TWEYyc2pVTkN6S3FBaFhOS3JwMWVrZ2V1dVVET0hKVC1jdEJYSWNJbENPSWJaWGtraVN6YVBn?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Fri, 15 May 2026 13:13:07 GMT",
+          "pub_timestamp": 1778850787,
+          "is_china_related": true
+        },
+        {
+          "title": "America's most powerful CEOs don't have much to show from their China trip so far",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWpWZm9Wb0tCSlc5SzlKWVdHZDE1Mmp4ekZPVXZQWm9IazY5V3lfMDIwaXROQmZhaVAzNVRCSGpReXJMOVJLb1F0aFRVbk1UejJTbVRESGJlMFJCdUVIRVB4T25RdU9GQlNpQlVyRXVBQ2g4MExiVkRXMzF3bkNfSVQ4SFZ6U3BkUHlYTUlSc0FTUnQ0ejh6Y3pVc3JjWHZfXzhHYmhDOHJpUi1SUTVuTTBNeE9VWFNRcVdBRnl6c0t6XzhsMnA3MG1lWFNmVUt1bS1n?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 11:13:58 GMT",
+          "pub_timestamp": 1778843638,
+          "is_china_related": true
+        },
+        {
+          "title": "Putin to Visit Beijing Only Days After Trump Departs, SCMP Says",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXZaRVRrSDVvTnBuY2hhRDkydlRKZTJaQnZfUW0tY0doeHZiU3NVU3hITC1Mb2owN2RyZWNaUTM5WFZGSTRiLUJyQjF6R3RnOHVrTVJUM1FKdjdMTWhSRk9rMmlTeW1sNXd4dlY5MGM0VHFabTNTSkpTenBod2hybXZsUTdxa2JmMDNmVDNUWUdobmlWd3FzS3duQmw1X1I5V0hrMWpxR3h5QzNrS0tNd0NBNA?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Fri, 15 May 2026 05:42:00 GMT",
+          "pub_timestamp": 1778823720,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump sows uncertainty over Taiwan arms sale following summit",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUW16MF9QaHRkV1pZcGxhbUp2a0cxV1AzS0pJQkNHQlV3WlFFaDVsdEQxUjBSSHZfaHVDNTZKbjJ0aFFvalRidGRQS2R6NVZBS1l5TFZKZDdHQzEzWHNCeEVpdlVtbVcyWEY1N1RPRUhQQXhYWTFXTDdqdGpWOWh3SmZCU3MtbDNQRWRtSzc5emtNZEdDWVJ2Zzc4SjJGWjJfeXlF?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 01:46:00 GMT",
+          "pub_timestamp": 1778809560,
+          "is_china_related": true
+        },
+        {
+          "title": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUlVtMXBXbWVqcFVxZlRIZ01aQkRjVDhRSHZZLWNIR2NjemhwbDItdU9YdUgzY3NPamd4a05OMEFQT1k2LW96a2lxVFJvTzgzeGozcnktSUprSEhnejJNUDdpWjFTdm9fc2J5QzJTR3pVdzFYeFh0NUhOUEU3aVo1cTVWVFcyMUowcDhCdUNkYzhsZEpQV1Y3NGU4MUJWNm9VMlczSE5XZS1ETnYxRjhreTc2STZlZW11QmRPeWhwRDhJVHJo?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Fri, 15 May 2026 01:10:00 GMT",
+          "pub_timestamp": 1778807400,
+          "is_china_related": true
+        },
+        {
+          "title": "Watch Comparing China and US Statements on Trump-Xi Summit",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjRkNzdVQ0RyRHBTQ3phZDkyYm9MVFRIN1NyWklNNEg5dExHNU9BTFVCZUhXbjRqdzVTVlZpNnVQLVU3U0t5N2tTSTBualQ2dll1a0dPWjBSWkFSU2c1V0tpZDhHVU5hU2FLdzdSSXgxUGlIeFZlNXRoczlERDlJNFBISGxINEtTX2E3Z3NwbVZ1b1VVSm9BRnBYbnZsV0I5RldDWkVCdjdrSVk?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Fri, 15 May 2026 00:00:00 GMT",
+          "pub_timestamp": 1778803200,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump leaves Beijing with few wins but warm words for Xi",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRU9TTUprdzlUN0ZBWGo1LUVNZWlYNzFvaXpPX21KTk1aQ0tfYXp5alZGai1Ub09XX2tma2JqME9MM0lKcEJVWDZneklPQWhkTlc5c1U4Z0NpUElNUUg1Tjc2UkpHQ3pTcWJLSWxhR2NYaFVVYnhOalZPUjhMaDhpVWJEQ24xY3NjTlpYaV9QTlJzZjhOZjdaNTN3bXY1WFk?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 14 May 2026 22:02:00 GMT",
+          "pub_timestamp": 1778796120,
+          "is_china_related": true
+        },
+        {
+          "title": "Boeing Wins 200-Jet Plane Order From China, Trump Says (BA)",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHFNZjNoZFlrUG9qS0xKc3Z4OWhWZW9LMlRvT0NtSTh4QlVRVzVaaWlBd1dRSnpENHpFNnp6d1A4ejhIeDNBOUg2cWF3R09iR0IwbmpVSlhIcFlVc0dFcFA0c295bkZwUVZvWWZFMndqVjhWNFJJaXJ1aEpMMXk2aEJqSElwYUFvTDExWGg2X3JQeWhkaDJuRkh2UkVKS2JNTDIwRnV5OA?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 14 May 2026 17:50:25 GMT",
+          "pub_timestamp": 1778781025,
+          "is_china_related": true
+        },
+        {
+          "title": "China’s Xi warns Trump that differences over Taiwan could lead to conflict",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTVtS2o5a2dfbTJXLTh1bkxmV09sUEtXaURYZzNGakxCd2RRSnRZWEhXSnctSU10VEtHVkVmZDVxWUdteDBPdTQwanFiVWg4U0pFVEp4aGRNX0dVRFJDaGlaWmR1UUVrc0tNNkg5SU1YQzkxZEdiUjRRdlZSNHljS1pWOGNNYjNkVEJZOTNR?oc=5",
+          "source": "美联社",
+          "source_key": "AP",
+          "original_source": "AP News",
+          "pub_date": "Thu, 14 May 2026 17:06:00 GMT",
+          "pub_timestamp": 1778778360,
+          "is_china_related": true
+        },
+        {
+          "title": "Xi’s Taiwan Warning to Trump Highlights Tensions in Beijing Summit",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnItVXhWLTdadHlNUXRhbE5fekg4dDBfaEJGOWNvUFZKWU5jM2E0RUt0T0tpVC04bjdfcHpQUllLZklwS2ZtOG53eE9uclhEcUFVNGRzbGFmZkplT1FvR2JwUG1lQlp1Vk9lWGlqLWhsdllWR3BkdXJSQTUxdnhEbGZJNl95TkVDa0VPLVVuZHU0Si1hZU9ZOFdMdw?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 14 May 2026 12:33:00 GMT",
+          "pub_timestamp": 1778761980,
+          "is_china_related": true
+        },
+        {
+          "title": "China’s Best and Brightest Tech Talent Is Going Back to China",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajBjT2c2aFZabm1Nc0lCay1UWWpNM3ZOZi03aHpzR25BVUZSTWhQaUhScVlkakZaXzlmellZenV0b1lWaFhfOGo3OS1PS0ZqM2tHU0xUMTF0UGlxTVQ2VFk1OTRyb0plemZVTk1oeFpBWDBNaHUzVHdiUS1xdkUyVXJwblc0SVpyTHhCeWZ3?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 14 May 2026 02:01:00 GMT",
+          "pub_timestamp": 1778724060,
+          "is_china_related": true
+        },
+        {
+          "title": "Taiwan Is the Key to AI Dominance",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YQlVIRHpPZWlaenFLT1VJWmthVGxMM3dCMVdJeGp0UThHaVZFbUZ4aTVUMEhyS3pqdm9EVVNiWU9DQm9oeWZUc1psdTQtZllZc01CTzlkV0V2Qm16T25OclVzY0RlVHZncnQ1N0hjbnhyMXUxOTZWTkZB?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Wed, 13 May 2026 21:01:00 GMT",
+          "pub_timestamp": 1778706060,
+          "is_china_related": true
+        },
+        {
+          "title": "US and China seek to repair damage from tariff war that sent trade into a freefall",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVVjejZrTXBEdXRCVDUyWmFNdnNxTXVrMUZ0TnM2ZXlWTlFncnpLZTlQTS1hczV4SmJlTXoxM0VSdjd1NFhubGhmQ1gzWGdBUVlYU2VvbTJjQ3J1MWJxaDRmRWsxUVZaelVXV1BzcWRtc3huUU9MOVdYZWNhTFFOaTF3UHQxdVJOX0tmdmJWUF9IdjNt?oc=5",
+          "source": "美联社",
+          "source_key": "AP",
+          "original_source": "AP News",
+          "pub_date": "Wed, 13 May 2026 16:14:00 GMT",
+          "pub_timestamp": 1778688840,
+          "is_china_related": true
+        },
+        {
+          "title": "Tesla CEO Elon Musk and Nvidia CEO Jensen Huang travel to China aboard Air Force One with Trump",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbU1ZcGpMMzRsSFVJdWEwNjIzdy15d0F5by1RbXlGY3FSOEEwcGVpaF9ES2U5VGRhdmQ0REtqT25xQXdBaUpmRWNudUxETWplNkJnaGRnMHF4N3hPd2p6NnRiNDE5YlJ0bmpKb3lpOWU3R0VhTDF1WXhYbVJ6ckMxTmJ6UWV4N1Iydk02SDNLRXpmX2RxOWpZQk1B?oc=5",
+          "source": "美联社",
+          "source_key": "AP",
+          "original_source": "AP News",
+          "pub_date": "Wed, 13 May 2026 14:25:00 GMT",
+          "pub_timestamp": 1778682300,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump arrives in Beijing for talks with China's Xi on Iran war, trade and US arms sales to Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV25RZnUyNXplUVRFeWJ6cHZqRUtSN3pJMWdobDBWLUItQnp2Vk1mNFJlaVFrakZZaHhXUXE0LTd2SzdTTmlfa0NXUVJxWHU0TmhGX0NoMEZqYnY5ZHpwdTJqN1otcGVDdmJ6VGEycDZwazRVTU04T3loN0Q4R3V2MEVfcW10dW5HYUdOSWJocWk?oc=5",
+          "source": "美联社",
+          "source_key": "AP",
+          "original_source": "AP News",
+          "pub_date": "Wed, 13 May 2026 13:30:00 GMT",
+          "pub_timestamp": 1778679000,
+          "is_china_related": true
+        },
+        {
+          "title": "Print Edition | Wall Street Journal",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RSXdId1ZPSlpadWNsTkZVWFhfLWVXWlFQN0RPMVV5R29McmxuT1NvVnRrNzV2OUMtQnVaeHZvNzM2cFBJMjU5TUlNVGVLU0NfZ192elpYTksxSkwxVWxTMTRR?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Sat, 16 May 2026 10:31:40 GMT",
+          "pub_timestamp": 1778927500,
+          "is_china_related": false
+        },
+        {
+          "title": "Russia says it took control of two villages in Ukraine's Kharkiv region, RIA reports",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXVhRjM1clk5YWxYM3d0ZzJZenBRVDJjWENWbTRXREk1YlVSV2tVb25nZTU0SjVIN2o3eXFCWGx0QUpPRDFyWmY5NlU5ckhweUVsTjlMV09uQ3c4b1Z5Yi1DdEtoTHN6TGZ3ZENqMTJyVTJlelRXa1VpMlFkdExzNC1fQW5hbWRyQ0Z1OGdfZmd0MFZDZF80MHZHRWhfQzJCODVJdGw2RWVZdktuVzh0MU1HQ3pBRy1xUzZGNXg2Y0ZUUEE?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 09:12:33 GMT",
+          "pub_timestamp": 1778922753,
+          "is_china_related": false
+        },
+        {
+          "title": "U.S., Nigerian Forces Kill Top Islamic State Leader",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXNqOEcwSDZMejdUS1JUOHVhSGZ0c2RUTllXQmRFNXpyM2taQ1BtU3g4UktHb3pSYS0tN1d6c3U2RFN1QlYyQzh4U0dSRXp0d1k3RzJibkhUdFlHM3JQTnduVzRWQTMzdlNTWlVXR29xSTVSSGdFSE1HSVhfeVJKNUdWUDNCaWdQMjVENFM5NWFhY3NjZFE?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Sat, 16 May 2026 09:01:00 GMT",
+          "pub_timestamp": 1778922060,
+          "is_china_related": false
+        },
+        {
+          "title": "Iraq exported 10 million barrels of oil through Strait of Hormuz in April",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGljU1pITHJaNl9CQkNWZk1LUk1vaGpER0Q1U1o2d0N4aDBOZEhMSHVoRHF3NmJxWjlLTnRtTThMenFMY24wckFXcXg0UTFhUVZJaDAxZG1mVUo3RjktQlVxZF91TkkwZzdpcGM4Vk10WDJ3bkdQaHNnbEhhcy14SGZVckxEdnpGQUwxbVJLWVNNbFBGNEZCLXdYVXVsNVk2WEdveXltbFdYQWlUMkRid25BWmR4d2c?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 08:50:37 GMT",
+          "pub_timestamp": 1778921437,
+          "is_china_related": false
+        },
+        {
+          "title": "Trump Says US Forces, Nigeria Armed Forces Killed ISIS Leader",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU0FlSHdoZ25NZ2tzbWZvZmhuS1paelVZTlpCTVpnNjIxX1FCelk3a0Y2R0s4NUVOUV8waU0yTzdMUVBxZGt0VVQtMldHRTZyWTdlX0laRGZSTWMwMmtyMzJ5R1dibWZZZU9yNmtiWUtGZG5QZ3hxMVJtcDJCYUtQMUFmTDdWeVZNc2hpYXo1T3ZEN1pEdDlZRk96NkNCeDladlR3UmF4eU1vQjU3MjFDNA?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Sat, 16 May 2026 08:33:14 GMT",
+          "pub_timestamp": 1778920394,
+          "is_china_related": false
+        },
+        {
+          "title": "Long Island Rail Road workers go on strike, halting busiest US commuter rail system",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVk3Y2NHUmRNVldTaDlnNmQyUmpCNF9YQUQyTFZjeGZwNzlZMGhaWmhLV3B1NDJ3bGhhQ01ZM2h0d09ZdjNFdzBWbHFwQlJlZC1lRGlEQ0Q2MmVPb0FVUGdHT1lETHgtcEowMnpnVDh2dGdHbHBOdnA0QWVmU19mb0RyWmF0a3Z3eW9oZFVpRS1nVlYyb0w1RkN3OWZfNXNBcFE?oc=5",
+          "source": "美联社",
+          "source_key": "AP",
+          "original_source": "AP News",
+          "pub_date": "Sat, 16 May 2026 07:47:00 GMT",
+          "pub_timestamp": 1778917620,
+          "is_china_related": false
+        },
+        {
+          "title": "FIFA officials to meet Iranian FA to discuss World Cup on Saturday, says source",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzFfUkJsLWlzTkUwcGdCbGw5VEhwakxJR0JjYnhCOXlJeGJ4VXNJdWZvT3ZvN3pnSUZ4Yi1IbHVkU2YtOHBIZnVGVGNJcGxjM19MeTYza0gzVEZ5UG1Kd1lWcHBIeUFsWmVEYmFHc1lqZEVGdEowa1VrZGk2NFV4UlFSU0MwMXQ1SDdNS2dISERyMDU3eFlDcEFrUzZDaFdfa0RkSVROUXlPbmMwclBNUEp0Um4?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 06:38:00 GMT",
+          "pub_timestamp": 1778913480,
+          "is_china_related": false
+        },
+        {
+          "title": "Samsung Elec, South Korea union to resume pay talks on Monday, union says",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkMzN1B2N09TUXhzRnRkV3ZQNkpZSmVLNFdaVVJndHo2dmFMdFZQQWt0ZUc3WjlNdHdyZmdLdlBwQi1Vd0JYeXdwMkpBTGR4RkI0bWJkV05zSXVVVFl1S1BZZ183NVZzTzEtTkFKdm5jbDZFZk4tQkpsazFTZVdsVXo5R3BUY2lFa0M2ZXlMcDFzSE1mSDJZSjJJQTgzMF9nMUtqNEFWc1hjbHNCNUNta0w1MFhDZjBvVF9wOEFUb2dhTEk?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 06:23:00 GMT",
+          "pub_timestamp": 1778912580,
+          "is_china_related": false
+        },
+        {
+          "title": "Man dies after shark bite off Western Australia coast",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1VGNWM3aWpCbzdaRXBYeVcyQ3BtNVEweFZSSlkwUFA4UjhibVBQWmpyMGN4X2FXS3F0RXpaMWpNQUQ3aUlqU2E5a0JBQXF1RHRqbWc4UGtBQWF5LVh3OEFWOVdZYVBzb1RBLUNONFA0VUk3M1ZaUnFKeVlvT19Gc0RWMGpLUXdDcmhkSkZDazBDTW1UY25ST3RkbjFaLV9VdUZ5aTYweFhTX0oy?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 06:10:00 GMT",
+          "pub_timestamp": 1778911800,
+          "is_china_related": false
+        },
+        {
+          "title": "In a Fracturing UK, Nigel Farage Emerges as Nationalist Nemesis",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSW9iYkFhb1h1bG1IaVktMjJxbUJuOFRSNTNfV3pJR0QyVkFiOVdBcDkwdHNSeDJmUkhEcVB6b0lLMmpxT00yM0xzanIwbGxydGg0U040S21ua0RtS3lMMXBneXJ3cnlRYmx3Rlo1OEpMeHY1REo4ZlJ2SkRka0kyX25JMFpQbS1sUTg0cHRZdFFYNXF3Q3dTVnFPSVRmWkdpcTNOWkV6ZzhzZjhTUDZvYXZaMmk5YVM1YU1UNQ?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Sat, 16 May 2026 06:00:00 GMT",
+          "pub_timestamp": 1778911200,
+          "is_china_related": false
+        },
+        {
+          "title": "Long Island Rail Workers to Strike in First Walkout Since 1994",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRC1jRkdBQmxveXh1Wk11TVlLeDZqWVdjY2FTYUpPUzVHR3lSd0Q1Q0VfWTBBc0ozSTNqUmFiLVNqUVNfRDFoR2hYTHdLQ3E4bll3WE9JNVhKdFphbksyY2FEdXNKdjlsR09hUmVRZ0dTcFdfTkRMOFV2dXNIX1JmSDVRSENqeUZ1RlZfMDVvU1hNeC10OUliUTkwbW9rY1Rqb3dRX3VqR1BFakhtOTJGaGd5QQ?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Sat, 16 May 2026 05:39:00 GMT",
+          "pub_timestamp": 1778909940,
+          "is_china_related": false
+        },
+        {
+          "title": "Trump's geopolitical brinkmanship has hit a wall with Iran",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZG82ZDhaS3UxcVRGSEpHTFVsb25nSVB0bVA0UEdYQlhrLWU4dmFlbUFiRDdScEtESkxtbHdqaWpnQ3BCcUZHanhNaGVEdERaTG5ia2RCWmpyZ0JZeC1KQUxCNVNHS1RhMWphNXBuT2ExUm5nOWtCaG1sNjh0YmVlY21iX1VrX2JGbE9Ka1g2WE9OaVh1YnA0dE5lMERxd1AxZURWV2JVcUdMV2lpMlE?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 05:03:00 GMT",
+          "pub_timestamp": 1778907780,
+          "is_china_related": false
+        },
+        {
+          "title": "Europe Lacks Everything Needed to Make Its Stock Market a Winner",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHFxaTJGMUkwVWhWV3VjRnI2M2t5U3hySTlnWFVRQnRTU0trRmtMUzhVc3g0VUoxczliZU9CZllsejVxdWNyLTNGZmVZaEhXRVpyQVJ0Rm1WM3ZZLXpBRTVld0NRdzZKN0VqME1PblpZY0cxQk85eFZra2stc0hnYlJjYU14Y1paYkVuRnlYSUJlZ2YybmZxVEJqaHRQTlJVU3ZLZG9qcF9oUHRlbnJzUk1FVnVSdw?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Sat, 16 May 2026 05:00:00 GMT",
+          "pub_timestamp": 1778907600,
+          "is_china_related": false
+        },
+        {
+          "title": "Eurovision Song Contest final takes the stage amid Gaza boycott",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWNrS2loUXFZZ1dyV0R3eUpENDVsWnR2TDR6dHlINmN1TThobmQzeVlwb0o2LUFzZHhrSmxEc0lac19iVXd0MXZZcXh6Q1BfRU5fbUNYclhqMFdYazdrUkIyZzB1MzhJUlpSeV9QbUhzNlF2dnFxc3g2ekF6YWFDb180anpOdVF3QUtYQk1rZ0tXbmFBazhLVkhVXzhGb0JycXI3REZNRXFFaEZ3NmdScVFsSzU?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 04:07:00 GMT",
+          "pub_timestamp": 1778904420,
+          "is_china_related": false
+        },
+        {
+          "title": "Trump says ISIS second-in-command Abu-Bilal al-Minuki killed by US and Nigerian forces",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblNUYkNXYVJHeEpscklIWjlaQWJ6dk9Idlk1aUxKNjd4NktpZjJfNVIzOHlvaktNR25xMnFheXBVdUFvNDZ0N2QyUG9xcTNZa24zQjZOcWYtTFIzUTc2aklrNVltZlpjaGVhRW4zOThLOW9OVklSaHpHR0NFdlZBTDhxQjJnMlcyd0xOc3g1QVpkUllHTER4VWY5cXR6dWk3QTN6d2VURjlLYlQ5Zk1zODM4bTNyUQ?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 04:03:00 GMT",
+          "pub_timestamp": 1778904180,
+          "is_china_related": false
+        },
+        {
+          "title": "US accuses Iraqi man of helping Iran-backed militia's plans for attacks in US, Europe​",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcnhoTVUwY09tRnJua2hpTUJ0LXVEWjRRRVNlNTJTUVhJOE95N3U2NXRSQ3FZOUhWYlRmUG4tM2ZuUGRhdndzUGhqREdWOHZHZUlac2p0V3paU3Q1b1kwZmk0SFpsOEdVZlZSR3Jlb1VRRlZ2OHdhNXhrX1U1Z2xaaFVTenM3MGdUd2FQTm1BRFpHM2NGOTRLRTZDbWxISEZ6Z1BybEJsZGxTM3lPZUFVSVVuX1g4TXBUdWFIM2F1cEptRm9U?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 03:24:00 GMT",
+          "pub_timestamp": 1778901840,
+          "is_china_related": false
+        },
+        {
+          "title": "SpaceX Shareholders Approve 5-for-1 Split of Common Stock",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGFGbjJOLXZObHl5VGRTMEZRZ1FpdUlsajVmNkZQemhLaEhrb1hsSk5pOGtEbDVzQkFHMTlRN3dHMjV4UlBKTlZQV0hYM005ckplYV8ySGNGQ0NicjBTN2V4M2RfeERmYUplQUxMUi1XU29NbDhRRWVOQ1Nmb2x4QWxUY1Vha0owRGNlSnlOMzFoSjRmTXJZb2stMVpONUM5Mjc3QU1Jb2FpYXFD?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Sat, 16 May 2026 03:24:00 GMT",
+          "pub_timestamp": 1778901840,
+          "is_china_related": false
+        },
+        {
+          "title": "SpaceX shareholders approve 5-for-1 stock split, Bloomberg News reports",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDh2bkV6Sl9EVWpGUmZRLWxHVklfeDVRbEtudmtLYjFQV2RaV3Q2NWZkaDZyd2o5bVZ3YmhkejVEbUZHaFU5blVETzNjWWxEN0VZTW1IdXJyUGwwYTR2Q0NiTHRDY1RZWmZFS09NRm5VdVJZaXFxWnBhODhCQ3AyeGxWT1JQZGQzVF9CYXlYbE01dU0zZHdmQm8yelRON0l1Xy1XU0k5Z3lqZkVNaEpTalZxWFBSVUtSUmVieGpWS2syclB0Q0Q0UW1SWTRqZw?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Sat, 16 May 2026 03:23:00 GMT",
+          "pub_timestamp": 1778901780,
+          "is_china_related": false
+        }
+      ]
+    },
+    {
       "fetch_time": "2026-05-16T05:48:09.468201+00:00",
       "fetch_time_display": "2026年05月16日 13:48",
       "time_slot": "afternoon",
@@ -1551,6 +2061,6 @@
       ]
     }
   ],
-  "last_update": "2026年05月16日 13:48",
-  "total_snapshots": 4
+  "last_update": "2026年05月16日 18:43",
+  "total_snapshots": 5
 }
