@@ -26,8 +26,7 @@ SOURCES = {
 # China-related keywords (case-insensitive)
 CHINA_KEYWORDS = [
     "china","beijing", "shanghai", "shenzhen", "guangzhou",
-    "taiwan", "hong kong", "hongkong", "ccp", "pla",
-    "xinjiang", "tibet", 
+    "taiwan", "hong kong", "xinjiang", "tibet", 
 ]
 
 # Time slot configuration (Beijing Time)
