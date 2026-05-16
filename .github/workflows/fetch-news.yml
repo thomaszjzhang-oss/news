@@ -1,37 +1,35 @@
-name: Fetch News
+name: Fetch News Timeline
 
 on:
   schedule:
-    # Run at 0:00, 6:00, 12:00 UTC (Beijing 8:00, 14:00, 20:00)
-    - cron: '0 0,6,12 * * *'
-  workflow_dispatch:  # Allow manual trigger
-
-permissions:
-  contents: write
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    # 北京时间 8:00 (UTC 0:00)
+    - cron: '0 0 * * *'
+    # 北京时间 14:00 (UTC 6:00)
+    - cron: '0 6 * * *'
+    # 北京时间 20:00 (UTC 12:00)
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  fetch:
+  fetch-news:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
-
+        uses: actions/checkout@v4
+        
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Fetch news
-        run: python scripts/fetch_news.py
-
-      - name: Commit changes
+          
+      - name: Fetch news and update timeline
+        run: python fetch_news.py
+        
+      - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add news.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update news - $(date '+%Y-%m-%d %H:%M')"
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add timeline.json index.html
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update news timeline - $(date '+%Y-%m-%d %H:%M')"
           git push
