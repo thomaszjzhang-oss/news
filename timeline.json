@@ -1,6 +1,516 @@
 {
   "snapshots": [
     {
+      "fetch_time": "2026-11-05T13:53:53.459506+00:00",
+      "fetch_time_display": "2026年11月05日 21:53",
+      "time_slot": "evening",
+      "time_slot_label": "晚间综述",
+      "total": 50,
+      "china_related_count": 30,
+      "news": [
+        {
+          "title": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVJKOWdMTUYyUUxqRVNtLXBGc2hjTTYwa3NQa0FNVXpKb3dnQzFySkJIY2I1MkhmZ0pscjE5SlFaQjEwZUROUjA2TlJlT1RVSjdYVkVycHZXcndMdW5Ic2Jtc1R3VW8wbWdvMm9BR2haOGZQblF6MjloYVFkU0t0ZU1tUTFkb1lVdm1QTl8tY3FFN2tBdGRMN3p6RUlLQ2NyZ184ejJJelYzVzdiNVVV?oc=5",
+          "source": "美联社",
+          "source_key": "AP",
+          "original_source": "AP News",
+          "pub_date": "Thu, 05 Nov 2026 13:14:00 GMT",
+          "pub_timestamp": 1793884440,
+          "is_china_related": true
+        },
+        {
+          "title": "Volvo Car Sales Drop on Continued China, U.S. Weakness",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeThxc2FES2hIbDZMM25YZVlNWFZnOUI1eUtsVEw3M0RrMUMtYWxMcEIzYVdpa3htb1pBUXZYTl90SUdsd1ZhVVhZc1Z0Wm5SSTBQRnlrQU9BTmlreks3b084UnlTUFVLUUhLdzBXSGtDZ3lhNGdmWU5iQXZwMFdqbHZDR0RnTFpxbEtZZ3VEaW1feVN0UkhJZl91M1k?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 12:45:15 GMT",
+          "pub_timestamp": 1793882715,
+          "is_china_related": true
+        },
+        {
+          "title": "China’s Copper Squeeze Deepens as Buyers Scramble for Spot Metal",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOelVqYlVrV1VlOVExRHR0eGowUFpCaGh4LWNlSUI3NDd5VGpUVlF3T3lNN280eGR4RnRES080LTJCODE1R1VCWFR4QmFzckVWOEhOUV9NYlF1cXVJWF92OGhUQ21YNlhzQ2luNlczdV9EY2FRNzBDLXFUem90Y3hzRHZJMUtXZWxhb2JLbmllUzZDdV9xRjVobFYyVWpoN3IybFhyWWlrVzJEbGVqODEyQXg0R25rdw?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 12:27:03 GMT",
+          "pub_timestamp": 1793881623,
+          "is_china_related": true
+        },
+        {
+          "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 11:54:32 GMT",
+          "pub_timestamp": 1793879672,
+          "is_china_related": true
+        },
+        {
+          "title": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 11:50:00 GMT",
+          "pub_timestamp": 1793879400,
+          "is_china_related": true
+        },
+        {
+          "title": "Trump's political humbling signals short-term gain, long-term pain for China",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 11:46:06 GMT",
+          "pub_timestamp": 1793879166,
+          "is_china_related": true
+        },
+        {
+          "title": "China Plans Debut Yuan Bond Sales in Canada Amid Warming Ties",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1RrVTdsWVJpXzN5dzB3ZDk0eTh6c3lZYWZxM0pHWE03dzctUzVWM2JLR0xfV3czZGVKekQtMVdCbUVULTNsLWRuM2Z4TVhodk9IYURjWlVaNHdJenZfUllVTnRHeHQzMi01aW9RX3A3SkZ0LVNyYVBZb1dCbjZLUkNEeWRfeHZ1d0s3SllsNDd1UmRqSXRTWmR6WTctN0pSRW9iVHpzTTBLbFExc1JnZmRn?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 11:25:06 GMT",
+          "pub_timestamp": 1793877906,
+          "is_china_related": true
+        },
+        {
+          "title": "China Blocks SoftBank Acquisition of ABB Robot Unit, FT Says",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWl80SWsybGZKU2I4aDRBUnp5cjJYVlhLTmhrYzhGcXNzRk0tMVFsQ2Q3dmRJcUdRXzZQeDY4M3B6dE9CQ0E2LWt1d09QNm93S2NyQzROLWRHQnJBS3pIREVuRVloeGdmWnFBaXd5dE4yTFVmZVdJcXN3cWhmSk56NGo3S1JTUTI1X2h0R3FOcmFiQnhPVjFIT0JTYmFyOS1aY1VtOTVzak9BSGtiQ05rdEVTajh6Zw?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 11:19:58 GMT",
+          "pub_timestamp": 1793877598,
+          "is_china_related": true
+        },
+        {
+          "title": "China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 09:38:16 GMT",
+          "pub_timestamp": 1793871496,
+          "is_china_related": true
+        },
+        {
+          "title": "Micron pauses work on $4.5 billion Taiwan plant, Bloomberg News reports",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc1FIQjgxQnIzUkVoM0ZJM1BaY3Jid3NRdlpUVU9MRlNMZlB2aGRNVjJjVk5SZWRZaUo1QkhSVzh1dXpoa1dNNUxacHZnSElMd3FPOHVFR0ZGU3E2S0JQZ0kzRGQyOENPVkh2VFdSc09FbmdGUGEtQTZuUGxRamlTTF82WDczMlEzUXVzSTFfNFRYN3R0aEFFV0dRZGpZMHFrYmVUcTIzc2liSmN1MjlmbXp1ekVnSk9udS1rTA?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 09:22:09 GMT",
+          "pub_timestamp": 1793870529,
+          "is_china_related": true
+        },
+        {
+          "title": "Micron Pauses Work on $4.5 Billion Taiwan Plant After Labor Spat",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMno5WXd4ZUVPS3pBazN3V0drVUt4OVc1WW80WF9uUWZGYll2S0VDWFVpd1VqbXRjU2FHNkJFY1J6aTRrbFJKbFNpUDBzWWlkdEtZMWdtaGZtRVVhUUNHWEFkQnJpVmFFcUh1Q3Y2TGRtNEYwX3BRZ0xLWDVTdFBpNFRZTFA5MDVvTmt4ZTIxN1VaY0xUcF9Ka1EwdzdrUUI1SzZoOVF1Q0FxSVF6T1NSTGFmT2c?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 08:54:28 GMT",
+          "pub_timestamp": 1793868868,
+          "is_china_related": true
+        },
+        {
+          "title": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdjYlRJdXR5ZF96alAtRG1fVk9ROW9xYzlqdWt2TnlfNi1nN0RxNmREcU5NV3VYY1NIRjdMYTRQN1VQMHVCakhKY1lDdFlGWVB3aDBHQVRFTXM3bGdSVXltaHVxQ1p4bTUtN1A5MFcxLV9kUGZNWFdLSmJQYlNJNm12NjI5dVRlal8ySnhyTDdRei1HSEpnSWxXMHR1TzZLZnYxRUl3VWZXYjdfbldV?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 08:45:52 GMT",
+          "pub_timestamp": 1793868352,
+          "is_china_related": true
+        },
+        {
+          "title": "China says US farm purchases hinge on tariff-cut deal",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 07:44:00 GMT",
+          "pub_timestamp": 1793864640,
+          "is_china_related": true
+        },
+        {
+          "title": "China Mulls Dollar, Offshore Yuan Sovereign Bond Sale This Month",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemphYmpSVmkwMGFHMExqMlU3dHJUelRBZld3TGpBTnNaZGotenRXeV95VHRRSm4xRWxKVHhNdmJfM3A5RmRjVUY3RHNpQkFUUE9NZVhyczZZQ0VBY0dsbFZ1Um41bkNuLWtXZXM4YkhxUFVwYlpuY3RVMmY0UFBXVHBJb2JaSUFFRS00dkZ0VnhUd2dtRDFFNExRYnVkM21iLUxRalJWckF2TnlGdi1VeENBUm0?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 06:02:00 GMT",
+          "pub_timestamp": 1793858520,
+          "is_china_related": true
+        },
+        {
+          "title": "Hong Kong activist Joshua Wong sentenced to 10 more years",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHFWanpzWHNZMUZ1dHU3cE12a2hqU0pCU2xhWGhjZ0hHSVZYbDY0a2dnTzQzalhjOWdOcWZLMzhyRHY1V0o3a25KV1VHenJlVVdMQWd4MHVXUXBKMnpDQzNVWmVOSmNDWmZQczF1WjljYnczRWFuQmNzanp1cktHZDJ3VQ?oc=5",
+          "source": "法新社",
+          "source_key": "AFP",
+          "original_source": "AFP.com",
+          "pub_date": "Thu, 05 Nov 2026 05:16:44 GMT",
+          "pub_timestamp": 1793855804,
+          "is_china_related": true
+        },
+        {
+          "title": "Hong Kong Jails Joshua Wong for a Decade in Collusion Case",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUxuQWNOcG0tQnFvb0tQTDlNWnNsMTdENkdOWkVaREYzOEpvSXZaRVBPcE9scFppY285WXJud1F1REg0dnhpYjlCWTV3MjVjOUdSV2JjOVYtRmFfTktJMjJBdHNiaFZkUU5OTFFPYVBsODF2ZjhjYUhRbC03R0RtTGdfMjE2MVQ4amYxQWVKaWFJbWtEd3FTWGJFWURQd3pUM2plLTIzZ21wejU3VF9vRFhfOA?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 04:29:00 GMT",
+          "pub_timestamp": 1793852940,
+          "is_china_related": true
+        },
+        {
+          "title": "China Bank Funding Costs Hit Record Low on PBOC Rate Shift",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHF2ZjZRMk03bzY5NC1maE5kT2NTaVBYTFpBOFowclNWUXFuRDFfZHp5ZTVUUUZ5VF9GM0twX2hCMmdrdVRhTTFmNVhNU1RaQ092bnRCa2VJeEtOeEthc0hsRnBNdk9XZTZVX010N0QwTDVZM19UWEc0dm1kZ2JlRXRvLVBwNmxkbV9ITEJuM0dCeTQ0cnFvd1lNdy1BZXRMZHJMVWZvZ3hPR2llMVE?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 04:27:00 GMT",
+          "pub_timestamp": 1793852820,
+          "is_china_related": true
+        },
+        {
+          "title": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1BkdzhuUkt1V1lWYm14bkJjMDBiNHl1ZEVVTm01MXU5WW9lQXlsNmlBMFh0ckxZMXlKQ3BKYnpYM3RxbkE4WUxSaVVKVE5OdmhkcnVIQUVWS0dCRmpLV3lJUHlNbjNxTS1DbGxkSnR2bWVENnhGemdvNUtJei01c1FiVUx6bFRBUTNSZFlpT0s0ajRHTHYyeUtiWFp1VUhRS1dqMjU1WkZoSmVJZVppRg?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 03:54:00 GMT",
+          "pub_timestamp": 1793850840,
+          "is_china_related": true
+        },
+        {
+          "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHF4OEhjMUNTdWtWZGYxckRtYUJKNDZSeWEyZkswSVlnV0NZMjVySHlmNzVMR3NxamJsNjRhWW9ScGtPNnE4ZXFteDJHdVV1QmZFcWRhclpCMWV1T3duTkkxbzZmaGcxdTJaUk5xTXZDUm4zazhiem5ZYUR5NGZLZEUwYUpQbXdtZ0Foc1dvOGVyUFYta2xPZWRnTUhHMHNJaDVNTm5ja1dSM2dnZnRxa3Jkcw?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 03:39:00 GMT",
+          "pub_timestamp": 1793849940,
+          "is_china_related": true
+        },
+        {
+          "title": "Taiwan sees continued US arms sale support after midterm election",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRHR1I4R0JTNGloMlpZQVpHelBtM0VBWWFQMV9IcVZIdHZYSTlBRFFVUXlLRnk3WU4zYkp4Tjd2SkllRkx2X2FpWXE0a0s1b2lnSjRzS3pIVVFsUVgybGdMRHFVUk93MTktRERWN214VWN2c2dMWVd5MGwySWlVOFpiVWxCa3VXRk10REFlM3FFWi04dHlQb1BGVmFsdk1CZzRUa3FlS0N3LS1UZmN6ZmhYVQ?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 02:29:00 GMT",
+          "pub_timestamp": 1793845740,
+          "is_china_related": true
+        },
+        {
+          "title": "China indicts ex-Politburo member Ma Xingrui for bribery",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN25tWWxjUjE4UTRDLXdlcEJnREtjajI3eVYtbGs5MHRFdG5EWXdYVTlFMW9yWFVNWEI3bUVvVFMwVDlJamJzVFBINUVRYUlNNWNkY2lBb2ExRm56MUUzNlhfTVVHTmREajdsMmZrcW9kcE9sbEhBZU5OM080bURJZFROTzJPa1RpMjVOQ2FfaEdPOE44dUcw?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 02:15:00 GMT",
+          "pub_timestamp": 1793844900,
+          "is_china_related": true
+        },
+        {
+          "title": "China Tech Frenzy Turns Into Year of Dismay for Retail Traders",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3VweFRYYWNyamVSbllFLVlOcVg0UnQyMHlvdmItTlRaQUZvVGFXTHRzQUJWMWt6TkhnLUxvSFZuclU2Z08yYlZTd1JyX0tLd3ktWU01aFhMVjI0RFNuc08tRFFzUW1qUlVjWHhSc3RFM255MG9YQm9meWdkTkhhWWVPMWpqVHFuOFIxcHl4TUMySHNqSnl6TTlEWDh3YkMwWFVHWXVWeXQ2YVo4VkhJUFA3OA?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 02:00:00 GMT",
+          "pub_timestamp": 1793844000,
+          "is_china_related": true
+        },
+        {
+          "title": "China Keeps Faith in Trump as ‘Total Defeat’ Adds New Risks",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnZreU9qMWlnZ2R0aml1QzVpNW5YYnFXcEZweG8zYVpPczFhSjdhRllUZkxjQV85SzM4UlBqdW1pR0hSXzUzUEczLXpaZFZ0aERYOVp2M3F5NlZLQkhoRVJ1SFdEcHBRd2dFcUJ0T3l4aS1UZmg3eTkxOWxVeTFUTUpGMFBWZnpkOHBaUFd3aUloT3FXZjFkSXRYQkVvbVdSNHpOM2JNRHJ3dUZ1Zk1TYlBHNA?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 00:56:00 GMT",
+          "pub_timestamp": 1793840160,
+          "is_china_related": true
+        },
+        {
+          "title": "Hong Kong activist Joshua Wong gets 10 years in jail on national security charge",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeW4tNlZjWHJjNXhIQXJhS3owZ3JIQ1U0VEo5RERfSGhldWx6Z0lQSzZTcmR5TU9aVzd3aWJaZVJwMHRIRVViMndnNDBESERVM2F6UWNyakVEMXdkNllqY3hOSTRzMV9yVGpIT1I1YkZjT01JNFF4cE05VW1VMzNNcjh2T1JqaEI5dGJBNGltcVhmaF9pYnM2WGg4MUJpOFRMY1NwcVVOR1RfdXRkaElFMEY2alEtWDhtYWswaA?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Wed, 04 Nov 2026 23:02:00 GMT",
+          "pub_timestamp": 1793833320,
+          "is_china_related": true
+        },
+        {
+          "title": "Who Keeps Crashing China’s Stock Market?",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONExiNUo3N2hQNkpnNXZ6bTJXZ0p5Rk1QNW9PVm9nQkltX2JjRUtiYmVvUzR5b1B5akhOUEd6dTNwR3J3UFhrblJrQ2tfWjVja3ZPSUJ6VmNTVmxzcmpXNGJHN1dQUC1LaDNwRTJlY0o3SE0tX2NlMS1FOHRQOWhaWWhTRGRSeTNnaFBoLUpjdHJjdzhYaTc3Uw?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Wed, 04 Nov 2026 19:01:09 GMT",
+          "pub_timestamp": 1793818869,
+          "is_china_related": true
+        },
+        {
+          "title": "Europe to invest €525 million in chip startups to catch up with US and China",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWJ3cnhGTVFUOE9TZXZkdVB0OW9tVFhjWVhFRjlDRktBLUNVcmh1MHFQc1lkb0R4UU96OFY0OEdwT0F4Z2p4aHhlUkVCQXlNSVQtSThhSVVBSGprdm1UNTAxTHB5MHpScXVhM0EyaDQtNGdMMUFia2Vya01vTzNqUlF2eDF1U2p5Mzk5WDZqaGNEVDEtSFk1N1NBRmZpRVlhUWNZeFdySnE2VHhvQVA0?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Wed, 04 Nov 2026 17:43:40 GMT",
+          "pub_timestamp": 1793814220,
+          "is_china_related": true
+        },
+        {
+          "title": "Tencent Declares Latest AI Model Ranks Among China’s Best",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDhGOEtSczV1bVRuMGFNX0cyZ20zMVI3ZWc2MnNSUWFWNkJ1Z2NheVZ6MmJ0Z0NJUVFjNXB6bXBvV1lqUzBWZTNFNENOeXhqTXBVQUhYQ05TbHNmcml0TlBjZUw2WUxVSUJPSEc5aFFTY0ZRT2tfUHlnR0dVTzUwQ1c1bHN3aTA1ZmV3YkVqMnh3QVZKaFlPdE8wbGR5TEh3RkVfeXZyWUlQUGhy?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Wed, 04 Nov 2026 06:19:00 GMT",
+          "pub_timestamp": 1793773140,
+          "is_china_related": true
+        },
+        {
+          "title": "Beijing Reins In IPO Rush After AI Concerns Hit Stock Market",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdG14X1p2Yml1N0c0ZEdISnRrX3RwY19oVU9sVVJNS25PdThMSHVWNk1xSHR2WDlNNlJDV05nWHBaNjRud3dTMmdKdnhWSGpmY0FKQ3VEQWlLM2pPQUtsVWdBXzAtY3ZnUGNHbDBOYWx5WTJRZnR1V1o4dVFvTWloX19ZUHNFU3RmOS10aGRZTWxvMkdwektUbFV3cUozbGFLNUs1ZFNKWQ?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Tue, 03 Nov 2026 13:02:53 GMT",
+          "pub_timestamp": 1793710973,
+          "is_china_related": true
+        },
+        {
+          "title": "Sea drone makers compete in Taiwan for soaring investment",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yTW1Ud3V0OExpalVjY1NnRmpMX08xY2gxVEJjYlVKRXpHU2ZqWFpxRzJBNTNSQktlSFVWZW4zckJsUllIek9xSF9pbENicFFSQjRvUUg4M0NjdEJ4Z3lGY2Z0bGtacGRrLVkwVEpoWEh1ZmpqMDJucHVZY2dOQQ?oc=5",
+          "source": "法新社",
+          "source_key": "AFP",
+          "original_source": "AFP.com",
+          "pub_date": "Tue, 03 Nov 2026 03:35:49 GMT",
+          "pub_timestamp": 1793676949,
+          "is_china_related": true
+        },
+        {
+          "title": "China denies spying on Nvidia's Jensen Huang",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZV2R2UWpWQ1JZYjRLNXlFZWdLUDdKTHVUQS1DeHRrRU9ZVVBmVEhMV3R3T2Y4QmhEZjdreGw1Rlhjdm80M1p5RWhVempHd05HdmtHWkVGUVZFb05BU1JHaUc4b3piWHhIQXhXTHRlYUQ?oc=5",
+          "source": "法新社",
+          "source_key": "AFP",
+          "original_source": "AFP.com",
+          "pub_date": "Fri, 30 Oct 2026 09:05:23 GMT",
+          "pub_timestamp": 1793351123,
+          "is_china_related": true
+        },
+        {
+          "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjBiR3diMXpnMUJ2bWxYdGd1bnljVjRKeldCbjZFLWlIXzFaRWNFc3ZXT3p5VGRmUU1sVmVXbG1aTVo4VU04SDZ1aG5obU1icVd0WmQ4X3RrVGNBRXd4dkxFUzFHZWdFNzlwdi11OWhvRGg1S1c2NkdZNVJaTjM4b2MwM2FLd3p6LVRjbmFuSmNpYV9HZjNHV3pRVUVKbDcwVnZ4eWlaV3R5NWU1UmFpR20wZ3poMUZu?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 13:49:06 GMT",
+          "pub_timestamp": 1793886546,
+          "is_china_related": false
+        },
+        {
+          "title": "Portugal's Ronaldo announces international retirement",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 13:44:30 GMT",
+          "pub_timestamp": 1793886270,
+          "is_china_related": false
+        },
+        {
+          "title": "Nintendo’s First-Half Profit Rose on Stronger Software Sales, New ‘Mario’ Movie",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVpaUFZuM0c0Q3ZzaDg3SmJBdm1VUFlxRjh4dmFyalBNdHJHcXdmMEZDR0VhT25VWjVFdEJkaHlaempaSXZlSXE1c21lMnZwbnFPamVKbHVMOGhPY1ZhSVBUR01QM3FsQmtCMF9FbUdOcEVxTXExREQyVklQU0ZSUjZJRnBhMUVNT194eFJPdjEwQUM0WkVBMFpmQU5BdjAyMHgwSUdQbkNWb3pXYjloNTY1dFV4QlBjRXlLZWExTQ?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 13:33:00 GMT",
+          "pub_timestamp": 1793885580,
+          "is_china_related": false
+        },
+        {
+          "title": "Opinion | The Beginning of Trump’s Long Goodbye",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVRkJIUUJhcUE4WXk4MkZycEQ4SjVZR05OazIyZUIybHpsTDNBSnBaNmZBRm9ZU1ZLeFM4d2poLVNNV0IzX0FlZnpQc2xvSHdFX0ZNQXI0YXNLUTFqSFNaUmRnVTZJS2lFQVVQeEJ4NmR1MlZoNy1yTzV6TnRHZw?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 13:25:40 GMT",
+          "pub_timestamp": 1793885140,
+          "is_china_related": false
+        },
+        {
+          "title": "Bank of England Raises Rates for First Time Since Start of Iran War",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWxNSDBnNUpaa2lla2pMTld5RWlaTG1JWFZQaGFZeV9BWnA4LWFXV0NIUFVhUkFZemNGTUVfLXVFUUtOaVNFSXpZU19NVEFvbjU0djdzdXg4cDEzQ2IyWkQxZ1o0YjZzOFNkaUlvc095aTVYYWhnWUtXYWt0YktTcm4yZ1ZDUXJ4N2F2N0w3QjBwSmVYdDRISzhyZE1ldkRRdDh4U2p1QzhtQ3E1X0RHZmVySDRVNWVlXzl3SA?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 13:24:42 GMT",
+          "pub_timestamp": 1793885082,
+          "is_china_related": false
+        },
+        {
+          "title": "New wave of bomb threats hits at least 25 passenger flights across Europe",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 13:22:09 GMT",
+          "pub_timestamp": 1793884929,
+          "is_china_related": false
+        },
+        {
+          "title": "Bank of England Unanimously Hikes Rates, Sees 4.9% Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWs5QVQtM2FoOGZNTEI4Nm55VUVpdGJhQmdXcG5zc3VJWG5aQTU3X2NPT2xIdmdYZW0zdG5VakdqamlqY0VReDI3TzFHcUZBZlU3VU9nLXpzWEI4N0dtcWNueFNSUDFCbzFJcUNvOHdtVEoxUEMweU4tNUNLcWprWG5BRkxWWWNNZ1pfR09XaThGTV9lYXJfLThMdFZBaWFRUms2UjBncExjUjdqMzhXT3Iwcw?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 13:16:00 GMT",
+          "pub_timestamp": 1793884560,
+          "is_china_related": false
+        },
+        {
+          "title": "Current Chemicals Expands U.S. Production of Rare-Earth Fluorides With New Investment From Momentum Global Ventures",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUy1OSHVYTndyM29iNUR0MnAxald0SVRYeVY0VmdDb1NRZVNqaGdFNHZmSV93bjBpd1JDYUNjNEtHV0wwWnJaME5rdkp6ckxZd0RlWGZqWnlkY1NzSGxFZkVSWkU2eHJLN3JCcWhLT2RWMWptS2NRT0ZDTmNZVUlVMXV3RlBkLUZXald2b3ZwV0ZvVDRSMVh2ZGV2d2xzSUdyQ1BHMUNLMklYeWZESXZYalRibkx0clZ6d2NNdQ?oc=5",
+          "source": "法新社",
+          "source_key": "AFP",
+          "original_source": "AFP.com",
+          "pub_date": "Thu, 05 Nov 2026 13:14:00 GMT",
+          "pub_timestamp": 1793884440,
+          "is_china_related": false
+        },
+        {
+          "title": "Jordanian officer killed in Amman stabbing, suspect arrested, security agency says",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVl90eTZDMU1FUm9NaF91OThBSDhrc09wdVZUVXliYzZiUGJIOW84Sk15ZTM3QWx4cVpzZTQ3Mkprd1kwWjNEOVRQdnBJRGF6TkE5ZlN6Q3dDYTNfY1U4VFpMcnliMXB3TFdDYkk4UWJkWmRYSm5EMGlvUVAxdVdVeDVPVFdCUUtCYlY2NTFnZS1UQUsxZ05NSzRZa3RWLXhHWnIzd2JmU1BwOTg3THE0Y3dpOEprZGx0S1diX1I1ZjBITzRZVEE?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 13:07:43 GMT",
+          "pub_timestamp": 1793884063,
+          "is_china_related": false
+        },
+        {
+          "title": "Alcaraz into Paris Masters quarters after Berrettini withdraws",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTi1DaGRKR1g3eDYzVkhtcEI3NVF1bVZ5NmM4R2d3c3VFZ0trUUNCTUgxbzUwSUs0ZXFRa3dqTWhUMGVnX1l6eXBZeU1odE9aeG9IU1luekJSd2IxODQzcFRnYnBTZ0k5YzRuNm9ETm1Xdngyd1h2bG1acXVVai13MkJSdl9rb2s?oc=5",
+          "source": "法新社",
+          "source_key": "AFP",
+          "original_source": "AFP.com",
+          "pub_date": "Thu, 05 Nov 2026 13:03:21 GMT",
+          "pub_timestamp": 1793883801,
+          "is_china_related": false
+        },
+        {
+          "title": "OpenAI kicks off charm offensive to change voters' view of data centers",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3pvX1VfZi1WbVpNTl9weHZ0YUJ5RmhvVTgyOVRadlVyc01HeW1rdm5uRjhzMFRSSkJ4TW1yVmxHbkFvSnpTWkxWSGRIalRXM0dndmdtUXNTNTlYc0V2TGlxNTEtZm5iZDJlZXd5VUhjWUc1ejFXeTJpNHBzY2g4NllDX3dNWmo0eFBZQW1MUVR5Z2NVOUFMcENoLWZzMThDaGNXdERwWXJ6Mi1MTHc?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 13:03:14 GMT",
+          "pub_timestamp": 1793883794,
+          "is_china_related": false
+        },
+        {
+          "title": "Hamilton Reserve Bank Expands Corporate Social Responsibility Giving to Guyana, Board Member Howard A Lewis Leads Bank Global CSR Push",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObE0tOWY2TFlQUW1uR2dwWS1GTTRuZnBsUnJyX1NxdXRmc1Q3X0g1Vi1VanVjbUhZYjI2SVVsMk9nWmUtc0ZVTHVSLWJrMzhFYjRhUU40Z1MtSG41Ujl2ajhmOUw4NHliaXg1N2FTeFFlb3BVdEc5UGNvbmtyeTBqN2tXTTlqRDVRSnF1T3AwLWhaZ096SGk5NmJHdWFjWWQyZlRLQk5OYTYwSDVYd3RmUFhzOG1qbzAt?oc=5",
+          "source": "法新社",
+          "source_key": "AFP",
+          "original_source": "AFP.com",
+          "pub_date": "Thu, 05 Nov 2026 13:00:00 GMT",
+          "pub_timestamp": 1793883600,
+          "is_china_related": false
+        },
+        {
+          "title": "iConnections and Preqin, a Part of BlackRock, Announce Collaboration to Bring Institutional Data to Violet, an AI-Powered Capital Introduction Platform",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVkxNTjRfenVHWWxfUm81OHJCQWUzb0E1b1VuZVdGNm1SbG5ySlNzVGxzd01kOVhwY05HV3FZMmZLTW5TaFc5WFFVdjUzUThOLVI5dERzWWtEc0daYUEzZVZLQWF6V25MTjVTYi1vbDBaR01YTmZ3UmE4Skc1THhlQTZJcV9ObXVpSHdZbkZMeE5EUFktQW02b1U1WFBTMERHcHJqSDFJb2NjamRJa3hfaG9FVk9qUlhvS003aHZlVQ?oc=5",
+          "source": "法新社",
+          "source_key": "AFP",
+          "original_source": "AFP.com",
+          "pub_date": "Thu, 05 Nov 2026 13:00:00 GMT",
+          "pub_timestamp": 1793883600,
+          "is_china_related": false
+        },
+        {
+          "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVJrRWVPZ19DM1pLb3UzNEtBc0hseHNtMUY4RTRTRDdMb3Fnb19MM200Q05YNG8yN1VFYURtNjdqTE1EQUgxZG41R3ZQa0t3Z2JpQjFYUEY4VVlhLVk2dzR0dmhaaWdlUmdINE9Cb1cwRVdpbHJNTGZsejlmYkluVmdOSEZEVEpudmFZNENkZzFWSnFELUViV2NNTGUzUHBuMU9Wa3dpclhyZ2hPVUJTVGV4cw?oc=5",
+          "source": "彭博社",
+          "source_key": "Bloomberg",
+          "original_source": "Bloomberg.com",
+          "pub_date": "Thu, 05 Nov 2026 12:59:48 GMT",
+          "pub_timestamp": 1793883588,
+          "is_china_related": false
+        },
+        {
+          "title": "Bank of England raises rates for first time since 2023, says more may come",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUY3RVZDLURQel9mZWtEbWI5aEp6eEEyTU50ck5TOHhTenFuSUhVaGlxX0Z1UHF4cUxxeE1tdTZpMjEzaVlaaUQ2TENfVHVYVndJNWFLclNVemtIaEF0RFBWcE55anJ2cnJYT29jWEk5aHJId2NFOFdvNFBPcTZYTnV4UjhmdHotdm1ITmFNWEt5MVltUjlmOThrbWJXdjU0WEhsWllZRE5aam5WX0w2dQ?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 12:52:09 GMT",
+          "pub_timestamp": 1793883129,
+          "is_china_related": false
+        },
+        {
+          "title": "AI, data-center stocks slip as Democratic sweep clouds expansion plans",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 12:46:00 GMT",
+          "pub_timestamp": 1793882760,
+          "is_china_related": false
+        },
+        {
+          "title": "The Family Behind Some of the World’s Rarest Pearls",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuLXBlaFlNa1FBQS1SWTFwMzBvLVdIMG5IbkNSby14ZGRQdzNrcEc0WGJLY0hoOFRlUW82VTY5WXp5QmFyQVJkQjRSeTBpZEtQVXFEbE1kX0hDcFNsXzBz?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 12:31:44 GMT",
+          "pub_timestamp": 1793881904,
+          "is_china_related": false
+        },
+        {
+          "title": "French bank Credit Mutuel Arkea says €100 million missing after cyberattack",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnU2SlpvVWVvS09oNFhpM25OcnhQeDhHLVF5SC1HSjZSY2dUMVZ1eFlyX1J6OGxyQVctbVRGRnF6X2luaFhnZVlaTmRnaTl3MXd2YnVONS1fbFZhQ2xBUFZmR3JETFQwTWh6cjF1Ty0yMjFlTjRDN2QwVzFFekhPZTMwY19la3QxdldNUUhFbFVoRjNtOXdFSTNlMzBHRU1JRnlaWUxUY01RVHUyeTUtYjZDSDhPUjFlOXcwV3B5Nkkzakh0c1E?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 12:25:04 GMT",
+          "pub_timestamp": 1793881504,
+          "is_china_related": false
+        },
+        {
+          "title": "EXCLUSIVE: Armani heirs favour IPO over sale to industry player, sources say",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHRWTTVWZEptbFh6d2xkVzhfQVc1Ym9JX3hBZFNqQ2tteGp3dDdOLXNUSkwyNGdsNzZvMHliUlJ0VFpRb0w4WFJjVzJPV1llUTJ2OEhYRlJiQ0hWVVRGQjlqSlRJeHlpelV3a3RlY3NxTnR0WDhRSF8zWGdMSFN5Q08zVnBPNFBNYlBqNnBsNk9jeFJNQUJvSXR2ZlV4MGFxci04NzNn?oc=5",
+          "source": "路透社",
+          "source_key": "Reuters",
+          "original_source": "Reuters",
+          "pub_date": "Thu, 05 Nov 2026 12:20:49 GMT",
+          "pub_timestamp": 1793881249,
+          "is_china_related": false
+        },
+        {
+          "title": "Opinion | Tucker Carlson Goes Nuclear",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYmtQRjd2UDhYSHB0V0JVVmx1SkthcEpXM3pySlFkd0l4bXhCNUJzckktQ29Va2Y4YmN1WWhPb19KRVI2aHdURHY3TWNqQzZ0QVVjR3pJWUhjTHd6cEpQemF1TmlUQ3lkd3IzVWpjZW1rWGdJTmNBeVY4R0JoM1BjaWFjQ2o2enM?oc=5",
+          "source": "华尔街日报",
+          "source_key": "WSJ",
+          "original_source": "WSJ",
+          "pub_date": "Thu, 05 Nov 2026 12:17:17 GMT",
+          "pub_timestamp": 1793881037,
+          "is_china_related": false
+        }
+      ]
+    },
+    {
       "fetch_time": "2026-11-05T06:03:12.900943+00:00",
       "fetch_time_display": "2026年11月05日 14:03",
       "time_slot": "afternoon",
@@ -20408,518 +20918,8 @@
           "is_china_related": false
         }
       ]
-    },
-    {
-      "fetch_time": "2026-10-22T11:02:27.753356+00:00",
-      "fetch_time_display": "2026年10月22日 19:02",
-      "time_slot": "evening",
-      "time_slot_label": "晚间综述",
-      "total": 50,
-      "china_related_count": 28,
-      "news": [
-        {
-          "title": "Hermès Sales Miss Estimates in Region That Includes China",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0F3T1FpOHhrSXBNbUJyQmQ5UmhDak9wd3dPX3VPVEpjSTlzQVRpdkpTNHhrbUhMTGFxYTFkT2tPTVF1ei0yeHNKRHdYMzZUNkhqYWNudWp2dENldnYySjRZWmVyaXh3cU12eWZKVGtsUTFYSjlOdmpLWHdaNXNzT3ZXclJ4eGJxWFFRQ2JpMlFxT2Q3c0E4Y0l6LUxsTGRYRUxPOXltV3VWeTVi?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 09:39:35 GMT",
-          "pub_timestamp": 1792661975,
-          "is_china_related": true
-        },
-        {
-          "title": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkp5bjg3WHRYdlFYTFc2b1VRRmVpd09Oa0Y1SkxUR2xnUTFyTXAyMG9zcUFnN2pIbU1WQVJBdmVqNG0xZDk1UWM0N1M3djhNaWVwbXVBamhRS3dMMWtPRlhQbGFXWk9BTXVXcnppTVB6ZWl3eTRzM3BqclJ0MlE3MEJVSXhWTUlnYm1aVGVGa01kcmljSXFBX1NTWC1Hd1k5X3hwcGtyRjdtblFhVG9RdmlmVQ?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 09:37:13 GMT",
-          "pub_timestamp": 1792661833,
-          "is_china_related": true
-        },
-        {
-          "title": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzN0dTBZMTZadGROV3h5d2NiTjRQUXoxTHdVOGJ3OE5sR2g0Z1lYYV9nWDZPUlk0d241ZDJuMlVxbXk0bDUyR0ZVQklaT18yVHFicnYwNlZrdmVsMkQ0YkNXOUhqajlPN2c4QnFmOGhXQ1VMc25rZ28wT0xmTGlVZ0FYQTh3dWt0cWFZeTRhaTJLTVhreXB2TU5aRDMwT2pFbUhZMEkwbHp4VU1WdDlTUWJWRFpxd2hDaHQ2RA?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 09:30:59 GMT",
-          "pub_timestamp": 1792661459,
-          "is_china_related": true
-        },
-        {
-          "title": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 09:20:00 GMT",
-          "pub_timestamp": 1792660800,
-          "is_china_related": true
-        },
-        {
-          "title": "Rio Tinto and China’s State Buyer Agree Iron Ore Supply Deal",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUlOellIalZ1MnhoSXA3NzBsYmR1WHNDd2Q2M0Q3RTFMYUFTZ05ZY0RfVkNzeHViUkJXYjhWNEdPOWFGbFFQUVRnTjByWXdSQXNNNGdtU0VHQzN2NlctakFHS1lmR3pxUGpta2NtZjloZnV6ZDFnMU8zdzh5aW1WUXZmSVFhdzFueUtYOHdoQlNZRExQRHBGQ0R0M0RiSXR1UEliM3ZKM19qS0pSRDhITHhOXzY?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 08:48:09 GMT",
-          "pub_timestamp": 1792658889,
-          "is_china_related": true
-        },
-        {
-          "title": "Alibaba Shares Post Steepest Drop in Two Months on China Curbs",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjNQYUdPNm9tWmRpR3A3Y1FfaTI4NGg5OEFKTXlHNmVWNjNzMTd0bkQ4QWh3V3NiT3lQYTNBY0JlbTFkRFZUbjVxdFFVblgyWnZ0Q3JLYnV5bUotMjBEQ2RpZUx4R0dSVk1rNTJUUUc5REI3R25mNmM4cEpUVjdLZTlRdTA2WUp4eFpLVXM3V3N0YkZCVGJrcGlhRlZpVHk0SkZxT2VydzNCMElPX1BkZUNhcw?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 08:28:25 GMT",
-          "pub_timestamp": 1792657705,
-          "is_china_related": true
-        },
-        {
-          "title": "Audi gets new China leadership to face bruising competition",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFU0VXdHY2hhVWJVVWZ1NDdIUG56Z0ZqYzlpMFE2cjE2Rld4M3N4MUtHdHJELXMzeC1sMDhZMlpMSVVQQk9ZM0cxaUxpbFRXSi1EVkRKeEhLVDlUczJiSW1PdExSaXVwcEZUVDg4S2JkaDk3RkJVOWNSc3g1RXoxMXRUVVJQM3pIX2JQYVFrcFVJcURKWTQxaXRnT3ZmSmdPN2ZqQnFkOA?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 08:12:06 GMT",
-          "pub_timestamp": 1792656726,
-          "is_china_related": true
-        },
-        {
-          "title": "How a merged SpaceX-Tesla might navigate its China problem",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmY1NjhtaFZzWlhreTlYYko3OHc5TU9QbjBvUHZ3Sm40Wm5hUTdxRzlwQ0VMQ3VFeEU4VDYxazBpSG1Yc0VqZU4tcmYyLV9KMG1iQ19xXzBJZ3JqN0F1Q2R4dkVjVnRhZ092bmFaYldaY2ZGWWRsUHFhNUxZN1ozT3RqMHNmcVJpendlNjZta00yVHNCLS05Y3lzSV9WdzQwRGo3dFJlcXA4bzhtaUFGMzJB?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 06:19:00 GMT",
-          "pub_timestamp": 1792649940,
-          "is_china_related": true
-        },
-        {
-          "title": "China's Xi calls for qualitative improvement, measurable growth in economy",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 06:13:00 GMT",
-          "pub_timestamp": 1792649580,
-          "is_china_related": true
-        },
-        {
-          "title": "China's natural disaster losses hit $30 billion in first nine months of 2026",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0dFRUpPb2NKS2dnNU5vc3pPQWMzdXZWTVpoZU5CVWY0QWZLcDZPTVBYb1RROFo1SlBmLUNQV0lGYk91N0k1NFBfSUhaWXg1OEJmRFloTEtNWjlLZ2FHcGN0NkZpUVJBaDVHa09RdmtXNlp0dExmVHJZM1lMbUotcWk2MWxQUW9YNW0yalJOWG5MaHZ5cTJOeF9yVy1ENjZPNHdGOUJON2l1RkRMbWpMMjRHRnQ3TTA0X3pVOQ?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 05:03:00 GMT",
-          "pub_timestamp": 1792645380,
-          "is_china_related": true
-        },
-        {
-          "title": "Typhoon Champi nears Taiwan, causing flight cancellations and disrupting US-Japan drills",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZC1YeXBLVHhucUR5RDhMUktaeFZMaF9qdl9GUUluNDRZeTRXdjJCS1dXVlJFSzJMSmtiVUlfSVlsOHNTRXZRQkJnUGJNYXhSelVnalZ2TTlxcVE1eEF5NUhWVnM4NEVudWtmaDE3RlBPQmJMXy1MYUxlTlljelB2M0JFNkhnYnRIUkVsNEZWdlVHaHFqMG4wS0c0WEdPM2tkcmpKN0NCckVSQVNiQXBlQUdvRzIxNFBqU0xsNG1R?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 04:11:00 GMT",
-          "pub_timestamp": 1792642260,
-          "is_china_related": true
-        },
-        {
-          "title": "Europe Car Sales Growth Accelerates as China Brands Seize Share",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkpRUHZlM0pLazYxTTlfc196SExMTENTWGlHSms3eW5yUjZONlpLRWJBUFBaSk03bUZ6YnlZVGcteERTanZTeVJONDBxd0hmdW4yWXpDMGRlZmxIaERCWElWRmJxQmRwcTUzd1NnVFBpRFJ0THhIX2NEV3doM3BIemgzc0U5SHM3TGpielpzeU01VERaeWJHTHVhSmp6cW9vQkZ3bVZyR2tuVnJ6eTB6U1ZXem4?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 04:00:00 GMT",
-          "pub_timestamp": 1792641600,
-          "is_china_related": true
-        },
-        {
-          "title": "Taiwan probes organised crime links to China's 'transnational repression'",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejRPNmlvaDhHZDJQYlloWDU5cnZpTHZEOU0yWHotRTRsX3Q0TGs4V1F3ZzRBLVNqMnhSVUtNS3ZlWGFTVEU1VUJodkdZMUR0aFUxVnhqU1lVdWEyTlI0dVp1VmRncVIzVDU0WmtxcmI1TXo4cHh0SDhGWXJHY1lSMG8wSnJuUWRrbkI3VXhqWXlUajNuSjYwTFRyNWtOSzlDNnZkamRWRFBUdjVkQUFaTlhSNHZGQQ?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 02:32:00 GMT",
-          "pub_timestamp": 1792636320,
-          "is_china_related": true
-        },
-        {
-          "title": "China Stock Rescue Needs More State Buying to Work, BI Says",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSTV1U0pKZVZ0OUMtbHZDRWVYR2xpZkp5QTJMOWhQLW5JaEFUdXFxVTRhcW9JQzhwMjUzNzdqVGJFYi15LXg3ZGtzMDBtYS1WNDUxZzQ2X2hIRTBpWUNCelBZa3NKVWN2d0RKdzJxWHdLSkhuUV9ZX2UwQl9Gc3RpTnNoek05OTdZcERzbXVObFlEdGFGZDhnanBMMGlyNExTbkQ5akFiYTVIZ3Z6TkRUSmlR?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 02:29:00 GMT",
-          "pub_timestamp": 1792636140,
-          "is_china_related": true
-        },
-        {
-          "title": "CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjRyMS1kbld3cURLdHlFYWd5emZveHZoYzhaZXh2ZGZjZ1BSOFR6REg5c0w5bEZhZXZIYmFqNEZlZEJtWC14ZUZFNWp3TEg2Z3ZPQzZIVFpldWVUWWY5RDVpOFVsYXNtMFlPM0hXX3VRUGd0WFhaN3pYcXEzRlJGMElSbld4R096SVc3Y2ptMmprY3NpOHZXT0owQmpUUzdRcUkwUFZhU0I2RElRdGFYR2dn?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 02:27:00 GMT",
-          "pub_timestamp": 1792636020,
-          "is_china_related": true
-        },
-        {
-          "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 02:17:00 GMT",
-          "pub_timestamp": 1792635420,
-          "is_china_related": true
-        },
-        {
-          "title": "Fortescue Says Risk to Full-Year Sales as China Dispute Drags on",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXJESzdBS0JtNE1jbjJrNGlDdzdma3F1aTVTX3E5RGR1a19vLW1MTVBQblVUelRJakFhbjlKNzlUaGJBRVNFSmJOR3BfMS14Zko2Q3lwblRvZ3hLYi1yQ1NWZlQ5Y1VPS0pLa2JIby12N2ZJT2Nvc0Qzd0lUYV84ekl0NHlXTmlEUWpBVEpYX3Yya3dtUUM2M1l2bHBVcmhQR1UxVG04cl9hakpxTjM3YVQxY1ZWZw?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 01:45:00 GMT",
-          "pub_timestamp": 1792633500,
-          "is_china_related": true
-        },
-        {
-          "title": "China’s Iron Ore Sway May Leave Japan a Price Taker, Says WoodMac",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUNTVWtGalJwcEhHOHpobFhmQXVfMWEyZXFEVkpydHdXNHktUFd1VXQ2d05mcGxlcW5tbHFucnpFbU5ZTlJIbmdpMFFIcGdmenZ0eWN6Tkk5VFFTejRXRFpCdkVIWXR1WC1aOGlla0c2dnUwYjViYUpzUnV4bzQ3bU9OelludXNGUDBrZHd5X2UyU0ZoVzNSR1Z5aUk0cnY1MFBwWWNwMjBqNkRiM3c4?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 00:30:00 GMT",
-          "pub_timestamp": 1792629000,
-          "is_china_related": true
-        },
-        {
-          "title": "El Niño Stresses China’s Power Market With Return to Costly Gas",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZTFsRmstNlZldDBiWnI1MC1RSnpoaHFoRWdMMXNma1M5aFNhbWJFUkp2MlFPYkI4UDh4aWdqRWpITUNnMGJtUWFpdDlQYkI5a1RpVk5XOHNlU2pfUUcyZkppamNvMzJ5bDgwc1hER05BRlp1eWVBYmdpWE45eF83QlR2V25ocEIwdjlZaWZTNHBJM0NGWmlXcm1oa2d4UnFhY2FDamJ0bjBzUlBGRGc1N3Vfa3Q?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Wed, 21 Oct 2026 23:31:23 GMT",
-          "pub_timestamp": 1792625483,
-          "is_china_related": true
-        },
-        {
-          "title": "China’s Petrochemicals Glut Turns to Crunch After Months of War",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVIyeXd2dkxLOVYyXzI5N0g0WW94eEZNWFdjYXUyYzJVMk81YWN2R0NXNFZleUQ5dlNuTUpsOEdSNEQtWW1NT194eldXUUZlT2oxMG8xMGZWMDRpc1REbjhTcmdlNnRIVEdsSnhqN21ka2M2eXBJRDhRM21JN1ZfeWVSWDJkU1YwUF9GMExydWhHemZnRFNEYU5xWUVUYWh2bHdLbWV2a0VBWGdtekJ0SFNsM0FCUQ?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Wed, 21 Oct 2026 23:00:00 GMT",
-          "pub_timestamp": 1792623600,
-          "is_china_related": true
-        },
-        {
-          "title": "Citi Targets Top Spot in China as It Awaits Securities License",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQl9tTENmNlRlUUxUaTJiYWpYVDQwdjhnaE8wZnl6aTB3Y2VpTDB4S09QMXIzTVhyUzA5RWt3QmpHSkNWVTAwN2xRQlRYOXBDYWp3TnNsWUQ2UzZhSlZWZ1NZa1g2cVc2ZEpKeUhpMG1aNWZrV09jbUhyLUtiRzNNejFJNVBuZVR2QjZpb0xYR3pnT2R6WTR1UHRoTklrRE1WbUxRdmZSdDMtSGlGUkRSRFJTQQ?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Wed, 21 Oct 2026 23:00:00 GMT",
-          "pub_timestamp": 1792623600,
-          "is_china_related": true
-        },
-        {
-          "title": "Philippines exploring deeper cooperation with Taiwan to protect undersea cables",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXI3SFRVTXFrMURWSExwd01uY0lFUVZ4M3J2amc4XzE3QVBidmZZOU9qVUFkQ3c3U1RSMG8wOTZ1M1M5Q1RXM0RwUzN5MkpILTEwQ3hjdjlQRU1jWVUyb1JXT3BFdzRWdFdyZzcxLXNoUk5hWDlTY2I3LWRpYkpZUkg1bmJtamZRYnMtdTJvOG5VX21RQ05fRkJCY082Ql90ME1zYllHZ1MyS211WWdDd2l3WFJ0dw?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Wed, 21 Oct 2026 22:44:00 GMT",
-          "pub_timestamp": 1792622640,
-          "is_china_related": true
-        },
-        {
-          "title": "A Simple Guide to China’s Very Complicated Policy Universe",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FdHRYcEMxR0tlaHljNXFFLUNURDZaSGxzZmxydUtDRkZDVWNQRU4tQjJwV1JrSEF2TFZYb2hqa0ItRlh6cm13emJWN2RaZllDYUNmWjVMRlJtejdTRGFpQU43Z0xvN3lBQURB?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Wed, 21 Oct 2026 21:00:00 GMT",
-          "pub_timestamp": 1792616400,
-          "is_china_related": true
-        },
-        {
-          "title": "How ‘Made in China’ Became a Status Symbol",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjVZbUVEMW4wVFRncDQ5ZjVvdnFnRlpCN3d6enVhWmFja1ozazNMVzFva0ppRXNpeFNCcXZiWDdhMUk5QkRPcWhaYWVNR1pkUl9iUHlNeklHWUlSUlhHWkxpcE1HWGxCWThBQnQwVUtwaHVUbW15bWhFS2lnWkdqRWRtbDI0dmF0OHFJaUgtcFlFdXpZUTJlaGVCS0VJbS1KTHFTQ3lzYXFMR0lDUTRkNVdLSQ?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Wed, 21 Oct 2026 13:42:27 GMT",
-          "pub_timestamp": 1792590147,
-          "is_china_related": true
-        },
-        {
-          "title": "China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule.",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbTNDZ2JLUWN4RlJQNVNaRk1wX0wzSXVnTnFwaWthc0MtSkp5eFVuNi1CclRnWFQ4czh5UVdhcWx5VVhzSEtXalM1Y3oxcHhsSF9ncWt4MF83OTBTS0VPZWV0ZndiSnJwRDZ3WWlnVVpaRkVhUWRrT1RhYjZJZFp2SHQxWnJ5MlpsM1Zpd2YyM3U3YWhNMDZxVFE0ak5xSVgyclFadVJkTk93TWpnQkVPa2c5TDJrQQ?oc=5",
-          "source": "华尔街日报",
-          "source_key": "WSJ",
-          "original_source": "WSJ",
-          "pub_date": "Tue, 20 Oct 2026 10:55:00 GMT",
-          "pub_timestamp": 1792493700,
-          "is_china_related": true
-        },
-        {
-          "title": "China defends DeepSeek after US ban of its AI from government systems",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW5jaGxGcHBVMHRMcDVDUy15cEdmc2ZYZzQ0aGZ1a2M2WVpjM0VWZjY1YkJBc3ZfUHgtZGMxM1VXRFlEdW9TZ3EyVEdUU2tzaXBhZFd6cW8ybDI1Z2NTbG9FUzh2aTRjeFNsamtNN0xlUTYzVWxXQWdMbmJZU2E5VXc4RzFabFBid0lvVw?oc=5",
-          "source": "美联社",
-          "source_key": "AP",
-          "original_source": "AP News",
-          "pub_date": "Tue, 20 Oct 2026 10:27:35 GMT",
-          "pub_timestamp": 1792492055,
-          "is_china_related": true
-        },
-        {
-          "title": "China opposes US ban on govt agencies from using DeepSeek",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sNkQzZ0IwWG9KVk5ra3AwYS14OUp3S2JvZGg3QTlOSHV5MFdVZlVNS29zRkNmWGcwdy1QUXNXYnFNYkpNVHA5M0lheE9nMExfRGpUUmtDOThkbzFxZTBZRjVac0dPeWNNdVFqdEJ3RVRrZ00zTV9zVUlTUng?oc=5",
-          "source": "法新社",
-          "source_key": "AFP",
-          "original_source": "AFP.com",
-          "pub_date": "Tue, 20 Oct 2026 09:16:44 GMT",
-          "pub_timestamp": 1792487804,
-          "is_china_related": true
-        },
-        {
-          "title": "China's third-quarter growth narrowly beats forecasts",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkdEdTF1NkxkM1VMWGNrTG1oSlF1bUFfeUt3Mlg1MTY1TGZ0N1hkQzJhcndvOXN3NmhEdlFhZWpPRFh2dkIwMWxfSl94a1phN1IxOVJoT3ZFVnFoWjBqZlUwR0lSdXQ2ZXZsSlBsclUwdGhsWWNFRGIydGZYOEJBdw?oc=5",
-          "source": "法新社",
-          "source_key": "AFP",
-          "original_source": "AFP.com",
-          "pub_date": "Mon, 19 Oct 2026 05:03:02 GMT",
-          "pub_timestamp": 1792386182,
-          "is_china_related": true
-        },
-        {
-          "title": "Troy Aikman, Joe Buck and the Awkward Tension on ‘Monday Night Football’",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXFuaXBzTVRKSTh6OVJ3MUFlVHZSdzNtbVY3QTBmdFcwTTY2ZkVtUHJ0cDFZTzZ4cldqN1lVRkFZNEUwS0xxYXdjTVZseG5Nc3VxUWs1MFhmcW1sb0Jxdk9HVmJ3R1RhNjF1M2d3QWdoR0JadlBwRVFBamtpT0tyVTZNNW9Mc1ozS1J3cnpmWjM5V2d0ZFFF?oc=5",
-          "source": "华尔街日报",
-          "source_key": "WSJ",
-          "original_source": "WSJ",
-          "pub_date": "Thu, 22 Oct 2026 11:01:50 GMT",
-          "pub_timestamp": 1792666910,
-          "is_china_related": false
-        },
-        {
-          "title": "Order to Slow Down Starlink for Ukraine Came From Musk",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlNQd1hOM3M3d2lrdVJlWFc4WVJUWkJhMzNfTGhoQmFFenp0SWNlVVRtMTFkTlhtQTFwbUhsZ3ExdmxuVVdSaHlTTzR6QzFxTTZRdW1PeFd3VFo0WjRFaFdrOVR5ZDQ2TzZ2NzNRRTNLQU5xT2FLeURIMmhqX1FrdFh2VXNXcGRlZi1DZzhaX0dGb21CTTBz?oc=5",
-          "source": "华尔街日报",
-          "source_key": "WSJ",
-          "original_source": "WSJ",
-          "pub_date": "Thu, 22 Oct 2026 10:59:50 GMT",
-          "pub_timestamp": 1792666790,
-          "is_china_related": false
-        },
-        {
-          "title": "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEg5MlR0cUtacXN1aGtzX2FxMFdqYkhhSGNPQnhkZHNLb0FqSVNuQS1FdHViQi0xcVlpeUhHUFpYRHM5YUkxVWtfV1ZkTExvbUhDMm52eVFJYldwQ1hFUWNNeXVWVU8zcFJIWkZ4RTV1S3BTUEVNS0htMjVUaFU3cHNoUzZYSk4tWmJLSERYUm5kaElhdnBfQ1BSTFIwNHJWcXU0a3FBXy1nZDd6X2U4?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 10:26:29 GMT",
-          "pub_timestamp": 1792664789,
-          "is_china_related": false
-        },
-        {
-          "title": "Print Edition | Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PdnZxdHFJSDhuV0I4VVpRRVZJUnFiMDJ6Z3cyeGQ4Sllsb0xfVzBSWGJ2ZUlNRk5WRkR2dEtQNlBXZkp6YzlaajdlSERCc3dCaC1jU20talBQYzdPbjFMd0R3?oc=5",
-          "source": "华尔街日报",
-          "source_key": "WSJ",
-          "original_source": "WSJ",
-          "pub_date": "Thu, 22 Oct 2026 10:23:06 GMT",
-          "pub_timestamp": 1792664586,
-          "is_china_related": false
-        },
-        {
-          "title": "US Supreme Court rulings reshape midterm election battlefield",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHJpX0tZVUZndXRmTDJCVWRtZ2xNM1I1ZWdRU3A0YTBCYjNubVA4WERsLUtlckRPdm9td0V2VmN6WFVYZ2Y2dXl6dGZRV1N3U2VlR09lOE1MbjZ0alBjNFdGb2FEWE5jSEUyWTNjaGZQTVczX2J5UkFnVC1sR01Yb0tYNElfaWV1Mjhac2czQURsNGpqbmtuQkVjT1ZVRHBBRnA4X1ZKYkhQXzYtaTE3V3Rkdk4?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 10:13:31 GMT",
-          "pub_timestamp": 1792664011,
-          "is_china_related": false
-        },
-        {
-          "title": "Republican backlash over Russia policy poses challenge for Trump in Congress",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDFDZkZKQWR4NUxYR1dscU5tbnl5STNSam5nVW9fNnVNUm9TOGktNjNFQy1maTJ6ZlpWWnY3ejdPMEtnQlRxcjNrZWpLOUhYNjdLdER6dEhDXzlZMmpZX1ZzLWZYUi1UMUxDTkZxa1ZvcEFjUjh3eFVEVDREaWttdEV2V0pxdEpRZ1VtUDEwcE9pTTFXa3V3azFwRWpwTVRrdkZKb0xQUWg1bkhFcXNXN1hiY3hyZG1YNms2bzNUTQ?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 10:13:10 GMT",
-          "pub_timestamp": 1792663990,
-          "is_china_related": false
-        },
-        {
-          "title": "Zoom Advances Its AI Strategy With a New Unified Context Layer That Helps Turn Meeting Conversations Into Completed Work",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUdzS3RTdExWQ3E0UnlWdVktdDZqYURuRTZkYzBtdmx5YUNDWXcxb1BtXzRnSVFfemZVUXd1b0ZyUzBmNTVtYUx0UFV6dGZkenBocS1GWTJQckpkQjFaVkRUdFdONFBGN0JOeTBfRHJoSHU4SmZLWGdTa1ljSUt5MnRHMjN1VXVQNmRjTmNxMHprRFhPT0JyUUNNMmhES0xEUE1hTGFENTQtdVZ6bEVabUtvRGFGRE0?oc=5",
-          "source": "法新社",
-          "source_key": "AFP",
-          "original_source": "AFP.com",
-          "pub_date": "Thu, 22 Oct 2026 10:13:00 GMT",
-          "pub_timestamp": 1792663980,
-          "is_china_related": false
-        },
-        {
-          "title": "Barclays to Cut 5,000 Jobs in AI-Fueled Push to Lower Costs",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGo1ZUMwV0ZhUU1fVi1IUWU3ZjU1TUZhNFVWZ0pIX0RYWkh0bTVVd0VkMnkteS1XbnVRNDRYWGpNSlFmMDB2WlMzelprOXRkWE5SenNQX1Q2Q3Y2YkNoYnhoTzd0ZnVmeE9KZGI1UFRVVDVQLUVQcjNvdkJ4dlVuWnVPdktuTTM4TUN1SllpcVFOSWdUWTFsNHZQejdIZ2U3UllYSjI1REZ3TnB2OWow?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 10:07:46 GMT",
-          "pub_timestamp": 1792663666,
-          "is_china_related": false
-        },
-        {
-          "title": "Long-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2QtcWhJRzBXeWNiMnFqOXhfNHd4WDhjb1RqUk0xa3NNbUdyYl8xTE5aRDdCVy01WDRPMGstSjJ1SndrZlFDdllTNEdveGJwVjE4YlpJNlpQQjJNQnVJWFBqNkpCOEhaNzFvTW1yNXRhU2NWdnZ3MUhua0RPaUxhVS0zdkxQZEYxTndHU1k2Sl9kYzVsMmU2a1AwODZZS2hoQndjRHIyel9nYy1OQllYaEhFQ1I?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 10:01:57 GMT",
-          "pub_timestamp": 1792663317,
-          "is_china_related": false
-        },
-        {
-          "title": "BeOne Medicines to Announce Third Quarter 2026 Financial Results on November 5",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSW82UGJ1UGFGaXdoWjNVU0VSQ0IwdEFjQ1YxbDZEUHdPc295VHBlNFo1QVhZdk1XcEowSGJRdjZWamFfWm5oa0h4aXpTbEljYVF5UlpYS01xRXFDQ2taem9RaFVrUWtYZjhsRmtvMjBPenZzSlVUbVZFLWRMS2pSdHZ5a0N4N1RlTmdXdUpCOURUVHhPLW1fZFJwVlRSb21OVFZj?oc=5",
-          "source": "法新社",
-          "source_key": "AFP",
-          "original_source": "AFP.com",
-          "pub_date": "Thu, 22 Oct 2026 10:01:00 GMT",
-          "pub_timestamp": 1792663260,
-          "is_china_related": false
-        },
-        {
-          "title": "TACTICAAI and NVIDIA Collaborate to Scale Agentic AI Capabilities with NVIDIA Nemotron",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanpGd21TSXp6QjN0Y1BpRDZ0Qm9RcHN6WHVxWDlTcVRfalk0eFgxYVJUcXJ1QzNJdXNOTFN2NF9Yb3VXRmNFa0lmMDVSR29jejU0S2l2dXItY1VjRXRPN2c3WWxLMTIyOEJmR3prY1V1VUZ1ejJCaXR2NjBjVE5yM2VNcG5EVktta0cwbFdxUTE2RUsybFZXaWN1d0tPUWF5QktPRmhlaW1qdEk?oc=5",
-          "source": "法新社",
-          "source_key": "AFP",
-          "original_source": "AFP.com",
-          "pub_date": "Thu, 22 Oct 2026 10:01:00 GMT",
-          "pub_timestamp": 1792663260,
-          "is_china_related": false
-        },
-        {
-          "title": "Four people die as storms, flooding hit southern France",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcG1DUnZDcl84Z2tVbFpCc3ptaHJGZFJrMFNoZGptWFZ6ZkhnczFHRVp4azZyQk0zR3R2NHppdGxnMFJNYm92YkVyTU9mbUl0aEZ3d2RwZ1h2UnB5SFBtY2Y3V1lLM0RlOVdaVy1XdzhRbmJVQy1IY05DXzFIX0t3UHg0OGM2bDhhSENqTWZUQWdycmxTTG9WVWR3X3cxd01fQ2ozalFGUlFyRHEya29rUQ?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 09:55:02 GMT",
-          "pub_timestamp": 1792662902,
-          "is_china_related": false
-        },
-        {
-          "title": "Hedge Funds Pile Into Shorts as Goldman Flags Stock Squeeze Risk",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSS1QM0VPN0JsVDJ4VkhmOUowN055M3p6aHlVVTJIRC1WMzFONmhSRkRaZjNhd2NQY0paRDlWdmJvYkpVWk1yS0RCMWY2bFY1TkJ4MlRHS1lTN1ZtZ0JHR1Z5bnN1M0N6TUdydTVCVGE4bmxZWFVSaFBGVGw0SXNUZm01VTUzX3FxNEdVQzdhTl9TZzNGQVFtZG9Qc3FXTDcwanY5MnB5ME1RbGdBTWVGVk5EbkNpdw?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 09:51:03 GMT",
-          "pub_timestamp": 1792662663,
-          "is_china_related": false
-        },
-        {
-          "title": "Nasdaq futures drop over 1% as AI worries resurface, oil climbs",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 09:46:51 GMT",
-          "pub_timestamp": 1792662411,
-          "is_china_related": false
-        },
-        {
-          "title": "Love affair to staged arrest: how a Romanian from England was jailed in Russia as a spy",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhoaWxKeDNRbGdTZjZ2SlJvZHRVaG95WkpFQWZndWlnRjk1UFhNVGlEN1plakN3TFNxT1dRanFFa3dJQUNDaG1BalJkUWxnUjdBeTQ2VC1QalFUWC1NbTktR094VTZHMUpXMklISUJreWNoaEExX1BUMTg3T0I5VEVXTHBlX0lmYmYzV2M5VmJfR0s3ZmRmenJMZDNBUnViZFU3MFA4bWhFekJ4NHRj?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 09:44:31 GMT",
-          "pub_timestamp": 1792662271,
-          "is_china_related": false
-        },
-        {
-          "title": "World shares retreat as report of damage to oil tankers pushes oil prices higher",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
-          "source": "美联社",
-          "source_key": "AP",
-          "original_source": "AP News",
-          "pub_date": "Thu, 22 Oct 2026 09:42:00 GMT",
-          "pub_timestamp": 1792662120,
-          "is_china_related": false
-        },
-        {
-          "title": "Barclays to Cut 5,000 Jobs in AI Cost-Saving Drive",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYkRyS0R2Mmd6N1k4ZGZoUWJhdVVVSWJ1VFUta1ZWMlAwc09Jd1ljTm1tZVJoczRWN2N3VFhLZGZRaE1WMnVnX1ZNeFR5R2pnSnI2YldFa2thdndDV050UW1iVGVBQk1hRm5vM3NHcThGb25KM0NxUmJCTXk0SnVkUTVSV0NwaE53S3BUbXZfU2NDWWQyOTlBWFhkcTkxWUpLLU11enVOV3VBRVAyR1o2Tg?oc=5",
-          "source": "华尔街日报",
-          "source_key": "WSJ",
-          "original_source": "WSJ",
-          "pub_date": "Thu, 22 Oct 2026 09:41:49 GMT",
-          "pub_timestamp": 1792662109,
-          "is_china_related": false
-        },
-        {
-          "title": "Oil Rises as Deadly Saudi Attacks Fan Middle East Supply Fears",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGpORlFHazhXTnJBNnc2TndhSzgzUGRSLXd1Zm9fb0xKRzJZTUs1NGRPdE9McUpmZFlFenhNaGYwOGNIREM5NXRMMTZ4VXg5clJDaWFqcGRKRDRBSUh1bUpLenQ4ZTdyQi1qT1p3RjhRT0V6UVdUdGFuLWJxakVvMHRRanRvUGduVXA1bkZmaWlNRHFlOEdhVFhxTHAzUQ?oc=5",
-          "source": "彭博社",
-          "source_key": "Bloomberg",
-          "original_source": "Bloomberg.com",
-          "pub_date": "Thu, 22 Oct 2026 09:40:15 GMT",
-          "pub_timestamp": 1792662015,
-          "is_china_related": false
-        },
-        {
-          "title": "Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVhDZXVHTEtXNnJyeEx0a1ZvUS1iU3lGNV9Ia2dNTmljcm5PaVNvYUZ6ZkJsUGtoTjF6NDktS0FYeEstZEhOVkxvWUZmNU9VV05IUElNbTlHZk1iZGFNUVdzNXBXX01MVW03LXhnRTNVbzZRYlBKdExpeU5ZbHk3aldOVktTT2NRQmJ3Yjd4OEM4Q21JZU5GejMzRUhBbmxBamtBVmEzRGQtb1VnZ0E5dXJ5RUlfa1M2bHJvLTdWcDBjeWl0aFhSVzVn?oc=5",
-          "source": "路透社",
-          "source_key": "Reuters",
-          "original_source": "Reuters",
-          "pub_date": "Thu, 22 Oct 2026 09:34:59 GMT",
-          "pub_timestamp": 1792661699,
-          "is_china_related": false
-        },
-        {
-          "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHZpbmlQOU91ajdXQW9SU3JXdlZMN3NBUGVQcTFRUHE3RXNfSHRCODNybnBFR081bi1SVmlwS2FHTkFiWFRMOFUzeUYtbTd2cDQ0LUQyQU5rRTdOVGN6OUZpR09hX1R0d0NpQnV2d0lfazI4ckVoTEtBRWtJNWJtUUplVzRBVDdpV0tEQVN1c0dRZWRmNFZ2LWVsWGlGbFg5Q1dYUUpFNVJYd2NwcXdyUlU5RQ?oc=5",
-          "source": "华尔街日报",
-          "source_key": "WSJ",
-          "original_source": "WSJ",
-          "pub_date": "Thu, 22 Oct 2026 09:30:00 GMT",
-          "pub_timestamp": 1792661400,
-          "is_china_related": false
-        },
-        {
-          "title": "Exclusive | Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXY2d0x4QnUxU1RETGdlTFZCZFZMOXdVRUFkeHJxS1AwNGZGMGtHajB2TVhEZUFoLXFkSzZrUS10V2FaRDA4aklRbG9WN1F5Y2pIZGJhLWRpLTNBX29wdGJpc0FDUERmS0p4dDZSeGRmNFI3blZrOXBUT1VTb1RPWThlVkhIMjZPNGRkYmlkbl9pVEJNLThwdmRpalJJQXZEMURQZllWUlVVM18yWDRveFU0RkpHblU?oc=5",
-          "source": "华尔街日报",
-          "source_key": "WSJ",
-          "original_source": "WSJ",
-          "pub_date": "Thu, 22 Oct 2026 09:30:00 GMT",
-          "pub_timestamp": 1792661400,
-          "is_china_related": false
-        },
-        {
-          "title": "SpaceX Takes Conglomerate-Building to Sci-Fi Extremes",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb1RMMm9xckt1YnNRZXdCUWFQVUh4aGlIUnBCbGJLbnFWdTBkcTV4ZWlxbkFiTHJuaGJBZWRtMFhTS19EYkdzUDg1ak9idms4S0RjemJLeE16OFBaTnlFb2lyMElKOGFkVWNtUnZLRklOSXhMdnplQl8yUWNObHRDbFJZcjVTSFNHbG1FZEZQN2c?oc=5",
-          "source": "华尔街日报",
-          "source_key": "WSJ",
-          "original_source": "WSJ",
-          "pub_date": "Thu, 22 Oct 2026 09:30:00 GMT",
-          "pub_timestamp": 1792661400,
-          "is_china_related": false
-        }
-      ]
     }
   ],
-  "last_update": "2026年11月05日 14:03",
+  "last_update": "2026年11月05日 21:53",
   "total_snapshots": 42
 }
